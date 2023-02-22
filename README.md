@@ -20,14 +20,18 @@
 
 *By applying to this server, you agree to the below and aforementioned rules. Any breaking of said rules may result in a punishment which could include a ban off both the game and discord server. Punishments are dealt out at the administrator discretion.*
 
-![GunFightOnTheCourt](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/GunFightOnTheCourt.png)
+***
+
+![GunFightOnTheBBallCourt](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/GunFightOnTheBBallCourt.png)
 
 # GENERAL SERVER RULES
 
 ## 1.1 No Metagaming. 
 
-...Metagaming is using knowledge gained as a player, not as a character. An example of this would be knowing a character’s name because you can see it in chat logs. Another example would be two different characters that belong to one player interacting/sharing knowledge. Using/sharing screenshots (or general media) of bases to know when and where to attack them also is disallowed.
+⋅⋅⋅Metagaming is using knowledge gained as a player, not as a character. An example of this would be knowing a character’s name because you can see it in chat logs. Another example would be two different characters that belong to one player interacting/sharing knowledge. Using/sharing screenshots (or general media) of bases to know when and where to attack them also is disallowed.
 
+- Unordered Item
+⋅⋅* Unordered subItem
 
 ## 1.2 No Powergaming. 
 
