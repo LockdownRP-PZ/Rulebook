@@ -28,46 +28,43 @@
 
 ## 1.1 No Metagaming. 
 
-   Metagaming is using knowledge gained as a player, not as a character. An example of this would be knowing a character’s name because you can see it in chat logs. Another example would be two different characters that belong to one player interacting/sharing knowledge. Using/sharing screenshots (or general media) of bases to know when and where to attack them also is disallowed.
-
-- Unordered Item
-  - Unordered subItem
+- Metagaming is using knowledge gained as a player, not as a character. An example of this would be knowing a character’s name because you can see it in chat logs. Another example would be two different characters that belong to one player interacting/sharing knowledge. Using/sharing screenshots (or general media) of bases to know when and where to attack them also is disallowed.
 
 ## 1.2 No Powergaming. 
 
-| Powergaming is forcing events in a way that excludes/inhibits storytelling and atmosphere. An example of this would be forcing actions or events on another player. Such as removing their ability to move, speak, or otherwise have a chance to interact.
+- Powergaming is forcing events in a way that excludes/inhibits storytelling and atmosphere. An example of this would be forcing actions or events on another player. Such as removing their ability to move, speak, or otherwise have a chance to interact.
 
 
 ## 1.3 No RP Evasion.
 
-| RP Evasion is deliberately avoiding (by logging out or otherwise) a roleplay situation that is unfavorable for your character/you. Examples of this are rage quitting, logging out if you are captured, or moving away from the scene of a conflict without allowing people to respond with roleplay.
+- RP Evasion is deliberately avoiding (by logging out or otherwise) a roleplay situation that is unfavorable for your character/you. Examples of this are rage quitting, logging out if you are captured, or moving away from the scene of a conflict without allowing people to respond with roleplay.
 
 
 ## 1.4 No Random Aggression. 
 
-| You cannot attempt to kill/rob someone without quality roleplay. This roleplay should include initiating conflict by either the aggressor or defender and both players agreeing to participate. An example of random aggression would be shooting at a random people you see, or walking up to someone and using one line sentences such as, but not limited to, “Your valuables or your life”
+- You cannot attempt to kill/rob someone without quality roleplay. This roleplay should include initiating conflict by either the aggressor or defender and both players agreeing to participate. An example of random aggression would be shooting at a random people you see, or walking up to someone and using one line sentences such as, but not limited to, “Your valuables or your life”
 
 Indiscriminantly running people over with vehicles, randomly causing fires, or using a 3-2-1 countdown and then attacking them fall under rule 4 as well. You must give people reasonable time to comply/respond. 
 
 
 ## 1.5 Have a sense of self-preservation. 
 
-| Your character is to value their life at all times and act accordingly. For example, if your character is in a position where they are being threatened at gunpoint, they are likely to feel fear and act carefully. They're likely to go along with the aggressor's demands or attempt to earn favor or pity. Similarly, if your character is an aggressor, they're unlikely to threaten someone inside the victim's own base while the victim's allies are close by.
+- Your character is to value their life at all times and act accordingly. For example, if your character is in a position where they are being threatened at gunpoint, they are likely to feel fear and act carefully. They're likely to go along with the aggressor's demands or attempt to earn favor or pity. Similarly, if your character is an aggressor, they're unlikely to threaten someone inside the victim's own base while the victim's allies are close by.
 
 
 ## 1.6 Roleplay realistically. 
 
-| Observe actual limitations of your character and the world. An example of this would be taking five knife wounds to the stomach and walking it off like it is nothing. This is not possible for any normal human being.
+- Observe actual limitations of your character and the world. An example of this would be taking five knife wounds to the stomach and walking it off like it is nothing. This is not possible for any normal human being.
 
 
 ## 1.7 Trolling/Ragebaiting 
 
-| Troll behavior, such as griefing, deliberately causing issues, provoking reactions out of character or in character, are not allowed.
+- Troll behavior, such as griefing, deliberately causing issues, provoking reactions out of character or in character, are not allowed.
 
 
 ## 1.8 Mature themes.
 
-| Gore Roleplay, Explicit Torture RP, Slavery RP, Racism/Homophobia, or any other forms of mature (18+) roleplay, is not allowed on the server.
+- Gore Roleplay, Explicit Torture RP, Slavery RP, Racism/Homophobia, or any other forms of mature (18+) roleplay, is not allowed on the server.
 
 
 # ROLEPLAY RULES
@@ -75,22 +72,22 @@ Indiscriminantly running people over with vehicles, randomly causing fires, or u
 
 ## 2.1 You may not break character when using text or VOIP. 
 
-| If you need to talk out-of-character, use the proper channels on Discord and on the server. Use /looc if you absolutely have to use OOC to brief those you are roleplaying with for an emergency or in a staff situation, as an example. 
+- If you need to talk out-of-character, use the proper channels on Discord and on the server. Use /looc if you absolutely have to use OOC to brief those you are roleplaying with for an emergency or in a staff situation, as an example. 
 
 
 ## 2.2 You may not roleplay or reference being a real person or character from any media, from modern day or from history.
 
-| You may take inspiration from media, modern day or history but you cannot play them. For example, you could base your character off of “Rick Grimes” but you cannot play a character called "Dick Crimes" who is fundamentally the same as "Rick Grimes" from The Walking Dead.
+- You may take inspiration from media, modern day or history but you cannot play them. For example, you could base your character off of “Rick Grimes” but you cannot play a character called "Dick Crimes" who is fundamentally the same as "Rick Grimes" from The Walking Dead.
 
 
 ## 2.3 Discord (private or sever) messages do not count as private walkie-talkie channels, unless stated otherwise. 
 
-| We have a public discord channel for in-character public radio announcements. You can use it to find other characters or converse with them. There are also and faction channels which registered factions can use for in-character communication on a faction-member-only radio frequency. 
+- We have a public discord channel for in-character public radio announcements. You can use it to find other characters or converse with them. There are also and faction channels which registered factions can use for in-character communication on a faction-member-only radio frequency. 
 
 
 ## 2.4 You may not abuse any game mechanics to do things your character would not normally be able to do or circumvent normal game mechanics. 
 
-| Bug abuse, hacks, and other forms of game exploitation or exploitative base building (skyhouses, building across/onto a lake) are also disallowed. This includes placing walls over bridges. You may build a gate, provided it can be opened normally. If you are unsure, please raise a 📋support-ticket or comment in 💬support 
+- Bug abuse, hacks, and other forms of game exploitation or exploitative base building (skyhouses, building across/onto a lake) are also disallowed. This includes placing walls over bridges. You may build a gate, provided it can be opened normally. If you are unsure, please raise a 📋support-ticket or comment in 💬support 
 
 
 ## 2.5 Characters must be of 18 years or older. 
@@ -98,51 +95,51 @@ Indiscriminantly running people over with vehicles, randomly causing fires, or u
 
 ## 2.6 If your character dies legitimately to mechanics (falling, infection, zombieism) you are dead and have been dropped from the whitelist. 
 
-| You will have to start over with a new character. You will need to submit a whole new application. 
+- You will have to start over with a new character. You will need to submit a whole new application. 
 
 ### 2.6.1 Newly created characters have a 72 in-game hour grace period. If you die during this time, you do not need to submit a new character. It is up to you to get your skills and items back; we will not restore it. We offer 1 revive and 3 heals during this grace period.
 
 
 ## 2.7 You cannot retrieve your items from a previous character until 2 real life days have passed.
 
-| We can’t stop you from rejoining your old faction, but you cannot metagame to join the faction. You must discover it in-character. If your faction happened to hold onto your old belongings and just happened to pass it on to you, that is fine. This applies to single player playthroughs, I.E not within a faction, you will still have to wait 2 real life days. You cannot leave a will leaving all your items and/or safehouse as your current character, ready for your next character.
+- We can’t stop you from rejoining your old faction, but you cannot metagame to join the faction. You must discover it in-character. If your faction happened to hold onto your old belongings and just happened to pass it on to you, that is fine. This applies to single player playthroughs, I.E not within a faction, you will still have to wait 2 real life days. You cannot leave a will leaving all your items and/or safehouse as your current character, ready for your next character.
 
 
 ## 2.8 If you died/became infected/injured because of a glitch or rule-breaking behavior committed upon you by someone, your character will be restored to as it was prior to the incident.
 
-| Please let us know by opening a support ticket and we will get right on that. We will also heal you if you are injured due to an ingame mechanic gone wrong or griefing. However, we would like you to roleplay the incident as a “near miss.” 
+- Please let us know by opening a support ticket and we will get right on that. We will also heal you if you are injured due to an ingame mechanic gone wrong or griefing. However, we would like you to roleplay the incident as a “near miss.” 
 
 
 ## 2.9 Vehicles are limited to one vehicle per person.
 
-| The ruling is you are allowed to keep one vehicle per person. This lets people have a chance at finding vehicles of their own to work on or salvage parts from. This is important to follow on a smaller map server. 
+- The ruling is you are allowed to keep one vehicle per person. This lets people have a chance at finding vehicles of their own to work on or salvage parts from. This is important to follow on a smaller map server. 
 
 
 ## 2.10 Do not leave the playable area.
 
-| With how the server is being run, we are not permitting anybody to leave “Charming” unless it is for an event, as of right now. Anybody caught sneaking out of the map to go and loot somewhere outside of it, will be teleported back and the items confiscated from them. We will check the logs often to stop any offenses. If you are caught in possession of contraband from outside of the exclusion zone, we will confiscate said items and temporarily ban you for 48 hours. The boundaries are marked by checkpoints and rivers. Do NOT cross them.
+- With how the server is being run, we are not permitting anybody to leave “Charming” unless it is for an event, as of right now. Anybody caught sneaking out of the map to go and loot somewhere outside of it, will be teleported back and the items confiscated from them. We will check the logs often to stop any offenses. If you are caught in possession of contraband from outside of the exclusion zone, we will confiscate said items and temporarily ban you for 48 hours. The boundaries are marked by checkpoints and rivers. Do NOT cross them.
 
 
 ## 2.11 Romantic relationships are allowed on the server, within reason.
 
-| Marriages, boyfriend/girlfriend scenarios, dating, cohabiting, etc are all acceptable forms of roleplay. However ERP must NOT take place on the server. We have a zero tolerance policy on this. Any player who is uncomfortable with any player advances or feels another player is being inappropriate please do not feel like you cannot come forward, we encourage you to submit a ticket with screenshots of a conversation, this will be handled discreetly and professionally. 
+- Marriages, boyfriend/girlfriend scenarios, dating, cohabiting, etc are all acceptable forms of roleplay. However ERP must NOT take place on the server. We have a zero tolerance policy on this. Any player who is uncomfortable with any player advances or feels another player is being inappropriate please do not feel like you cannot come forward, we encourage you to submit a ticket with screenshots of a conversation, this will be handled discreetly and professionally. 
 
 
 ## 2.12 There is a ban on disassembling large amounts of furniture for XP gain within houses.
 
-| We do not mind you taking some furniture out of the house in question for decoration in your own house. But do not disassemble furniture for XP gain in carpentry. We will remove the XP gain and you will be issued a 24 hour ban. Inside of your own safehouse you may do as you wish with your furniture but in none claimed areas, do not disassemble everything. This is now a recognised form of griefing. 
+- We do not mind you taking some furniture out of the house in question for decoration in your own house. But do not disassemble furniture for XP gain in carpentry. We will remove the XP gain and you will be issued a 24 hour ban. Inside of your own safehouse you may do as you wish with your furniture but in none claimed areas, do not disassemble everything. This is now a recognised form of griefing. 
 
 ### 2.12.1 Fences are not part of this and can be deconstructed. Providing they are not safehouse claims or world boundaries.
 
 
 ## 2.13 There is a ban on vehicle farming on good condition vehicles. You are only allowed to strip for parts vehicles under 25% overall condition.
 
-|  This is because new players may soon find it difficult to grab a good condition vehicle. We want all of our players to be able to have access to everything around them. Breaking down vehicles in good condition will be classed as a form of griefing and be dealt with via a 24 hour ban.
+-  This is because new players may soon find it difficult to grab a good condition vehicle. We want all of our players to be able to have access to everything around them. Breaking down vehicles in good condition will be classed as a form of griefing and be dealt with via a 24 hour ban.
 
 
 ## 2.14 World knowledge.
 
-|  If your character has been in Charming since the outbreak (in reference to “How did your character find themselves in Charming?” on the application form.) they may have some prior information on some factions, antagonists and major events. 
+-  If your character has been in Charming since the outbreak (in reference to “How did your character find themselves in Charming?” on the application form.) they may have some prior information on some factions, antagonists and major events. 
 
 ### 2.14.1 Above all, this does not invalidate [rule 1.1] (Rulebook.md#11-no-metagaming).
 
@@ -153,7 +150,7 @@ Indiscriminantly running people over with vehicles, randomly causing fires, or u
 
 ## 2.15 Grace period.
 
-|  Newly created characters have a 72 in-game hour grace period.. We offer 1 revive and 3 heals during this grace period.
+-  Newly created characters have a 72 in-game hour grace period.. We offer 1 revive and 3 heals during this grace period.
 
 ### 2.15.1 Moderators will not heal any wounds caused by trait selection. I.E injured or burnward patient.
 
@@ -162,7 +159,7 @@ Indiscriminantly running people over with vehicles, randomly causing fires, or u
 
 ## 2.16 "Clues."
 
-|  Whether stealing from a safehouse or a vehicle, or even coming across an old safehouse of a dead character a "clue" gives the player infomation about the location. Clues are done in the form of a note. 
+-  Whether stealing from a safehouse or a vehicle, or even coming across an old safehouse of a dead character a "clue" gives the player infomation about the location. Clues are done in the form of a note. 
 
 ### 2.16.1 Moderators will enforce this ruling. This ruling has been done to make sure players roleplay any criminal interaction that has taken place. We are a story driven server, not a game mechanics driven server.
 
@@ -173,7 +170,7 @@ Indiscriminantly running people over with vehicles, randomly causing fires, or u
 
 ## 2.17 Using information obtained in the :zombie:lost-to-the-hordes (LTTH) channel will be classed as meta-gaming.
 
-|  Players are not allowed to use the LTTH information as in game information. Once the player has found out the character has died in game, then their loot is fair game.
+-  Players are not allowed to use the LTTH information as in game information. Once the player has found out the character has died in game, then their loot is fair game.
 
 ### 2.17.1 There are several ways this can be found out. You may find the player body, a "clue" can be left outside of the property by a member of the moderation or event staff stating the property looks to be abandoned or another player who has found the body can inform you in game.
 
@@ -182,7 +179,7 @@ Indiscriminantly running people over with vehicles, randomly causing fires, or u
 
 ## 2.18 Roleplay your chosen traits.
 
-|  We are a roleplay server first and foremost. When creating your character please pick traits based on relation to your character and not to create an overpowered build. For example, if you choose a trait that is a mental illness, you must roleplay that mental illness.
+-  We are a roleplay server first and foremost. When creating your character please pick traits based on relation to your character and not to create an overpowered build. For example, if you choose a trait that is a mental illness, you must roleplay that mental illness.
 
 ### 2.18.1 If you are caught with a mental illness trait and not roleplaying it, you will have your traits rebalanced by the moderator team and a warning against you.
 
@@ -191,7 +188,7 @@ Indiscriminantly running people over with vehicles, randomly causing fires, or u
 
 ## 2.19 Skill limiter.
 
-|  We are a roleplay server first and foremost. When creating your character please pick traits based on relation to your character and not to create an overpowered build. To prevent meta buiilds, we have a skill limiter in place that stops players from griding skills that are not relevant to their character.
+-  We are a roleplay server first and foremost. When creating your character please pick traits based on relation to your character and not to create an overpowered build. To prevent meta buiilds, we have a skill limiter in place that stops players from griding skills that are not relevant to their character.
 
 
 # THEFT & BASE THEFT RULES
@@ -199,7 +196,7 @@ Indiscriminantly running people over with vehicles, randomly causing fires, or u
 
 ## 3.1 Offline raiding is strictly prohibited. 
 
-| If you see a safehouse claim, you must check if the occupant is online first. If you wish to raid a player/faction base. 
+- If you see a safehouse claim, you must check if the occupant is online first. If you wish to raid a player/faction base. 
 
 You must stick to the following:
 
@@ -217,12 +214,12 @@ You must stick to the following:
 
 ## 3.2 Once this is done, please open a support ticket letting us know the list of items that you have stolen and the players involved and the victim. 
 
-| This is so we can keep track of legitimate raids, duplications and bugs. Failing to report the raid makes it illegal and all items will be returned to the owner. This step must be done within 1 hour of the action taking place so that we can log it and inform the owner if they raise it as a bug. Vehicle theft must be included in the support ticket. Even if the action is roleplayed out with the player present. Same time limit applies.
+- This is so we can keep track of legitimate raids, duplications and bugs. Failing to report the raid makes it illegal and all items will be returned to the owner. This step must be done within 1 hour of the action taking place so that we can log it and inform the owner if they raise it as a bug. Vehicle theft must be included in the support ticket. Even if the action is roleplayed out with the player present. Same time limit applies.
 
 
 ## 3.3 When a player has stolen from another players base, they must leave clues behind to determine who the culprit was. 
 
-| Some examples of this could be "*A torn piece of leather with a biker patch was left at the scene of the crime. Some black hair dye could be seen splashed on the walls.*"
+- Some examples of this could be "*A torn piece of leather with a biker patch was left at the scene of the crime. Some black hair dye could be seen splashed on the walls.*"
 
 
 ## 3.4 You may steal FROM a vehicle however you cannot steal THE vehicle. 
@@ -274,12 +271,12 @@ Note:
 
 ## 4.3 All players involved must consent to PVP prior to the fighting commencing. 
 
-| If PVP is not agreed on, then you must offer an out of the situation. E.G, mugging the player of a few items. This also extends to NPC's played by the event team.
+- If PVP is not agreed on, then you must offer an out of the situation. E.G, mugging the player of a few items. This also extends to NPC's played by the event team.
 
 
 ## 4.4 You are not allowed take a character hostage and exchange them with another, threatening to kill the hostage unless the demands are met. 
 
-| This is a form of power gaming, and again, is not tolerated.
+- This is a form of power gaming, and again, is not tolerated.
 
 
 ## 4.5 If you attack a player in PVP (consent needed) or mug them (alternative to PVP if all parties do not agree), the victim (if they are alive) can engage in PVP with the aggressor without gaining consent for PVP. However the situation must be roleplayed out before combat starts. 
@@ -301,7 +298,7 @@ Text based combat is allowed providing it is followed by these rules:
 
 ## 4.7 Each participant must take it in turns.
 
-| For example, you cannot have a script written and copy and paste it as quick as possible, this will be counted as power gaming.
+- For example, you cannot have a script written and copy and paste it as quick as possible, this will be counted as power gaming.
 
 
 ## 4.8 Actions cannot be chained in a line of dialouge.
@@ -309,17 +306,17 @@ Text based combat is allowed providing it is followed by these rules:
 
 ## 4.9 Actions must be roleplaying realistically. 
 
-| For example, somebody who has a thinly built frame would not succeed in an attempt to bodyslam a heavy individual.
+- For example, somebody who has a thinly built frame would not succeed in an attempt to bodyslam a heavy individual.
 
 
 ## 4.10 If you intend to kill during this fight, this must be agreed OOC. 
 
-| Otherwise it will be a fight and the loser will sustain an injury depending on the outcome of the fight.
+- Otherwise it will be a fight and the loser will sustain an injury depending on the outcome of the fight.
 
 
 ## 4.11 Players involved cannot force a player in to an outcome. 
 
-| For example, Player 1 cannot state "/me grabs Player 2 in a headlock, snapping their neck instantly rendering them dead."
+- For example, Player 1 cannot state "/me grabs Player 2 in a headlock, snapping their neck instantly rendering them dead."
 
 
 # SAFEHOUSE CLAIMS
@@ -330,7 +327,7 @@ Text based combat is allowed providing it is followed by these rules:
 
 ## 5.2 To claim a safehouse, you must place a piece of paper, journal or notepad at any entrance which is accessible to your building or claim the safehouse as standard. 
 
-| For example, a door or gate. The writing must include the safehouse owner's name(s). Please place each owner/user of the safehouse on the note. This is to prevent any offline raiding and also so we know who has access to your items when you are not online.
+- For example, a door or gate. The writing must include the safehouse owner's name(s). Please place each owner/user of the safehouse on the note. This is to prevent any offline raiding and also so we know who has access to your items when you are not online.
 
 ### 5.2.1 A single container in a property cannot be claimed. Only the building and/or room is claimable.
 
@@ -344,14 +341,14 @@ Text based combat is allowed providing it is followed by these rules:
 
 ## 5.4 Nomadic players can claim their vehicle and/or trailer as their safehouse.
 
-| If you wish to do this, simply leave a claim note outside of the vehicle where it will be visible. This acts as a player safehouse. If you leave your trailer behind, this will act as your safehouse if you have a claim note visible.
+- If you wish to do this, simply leave a claim note outside of the vehicle where it will be visible. This acts as a player safehouse. If you leave your trailer behind, this will act as your safehouse if you have a claim note visible.
 
 ### 5.4.1 You cannot steal a nomadic players vehicle as this is their safehouse.
 
 
 ## 5.5 Safehouse claims are valid during events. 
 
-| I.E if the player is at the event, they cannot be stolen from in any capacity.
+- I.E if the player is at the event, they cannot be stolen from in any capacity.
 
 
 # FACTION RULES
@@ -362,24 +359,24 @@ Text based combat is allowed providing it is followed by these rules:
  
 ## 6.2 To create a faction, simply open a support ticket letting us know.
 
-| We will want a few details first. Such as your character, the faction name and the people you have in it. We may further ask you a couple more questions such as if they have a backstory (for example, a police unit, military unit or a family) and any faction goals.
+- We will want a few details first. Such as your character, the faction name and the people you have in it. We may further ask you a couple more questions such as if they have a backstory (for example, a police unit, military unit or a family) and any faction goals.
 
 ### 6.2.1 If a new member joins your faction, simply open a support ticket letting us know you wish to add the player to your discord faction channel. This is for our records as well as yours.
 
 
 ## 6.3 To prevent any one faction hoarding vehicles, we are enforcing that a faction would have no more than ONE vehicle per member and then ONE faction claimable vehicle. 
 
-| No matter the size of the faction this rule is enforced. This ruling means, for example, you may have 4 members in a faction, then you can have up to 5 vehicles. 
+- No matter the size of the faction this rule is enforced. This ruling means, for example, you may have 4 members in a faction, then you can have up to 5 vehicles. 
 
 
 ## 6.4 We ask that you have a minimum of 3 players and a maximum of 8 players before you submit a ticket for your faction.
 
-| You do not have to be living in the same base to submit a faction request, only that you agree to form a faction. 
+- You do not have to be living in the same base to submit a faction request, only that you agree to form a faction. 
 
 
 ## 6.5 If your faction has disbanded, please let an admin know in your faction chat or use a :clipboard:support-ticket. 
 
-| This is so we can keep tabs on which faction is around and if their land/structures are a valid claim. 
+- This is so we can keep tabs on which faction is around and if their land/structures are a valid claim. 
 
 
 ## 6.6 Base raiding another faction is allowed providing the following conditions are met:
@@ -402,7 +399,7 @@ Text based combat is allowed providing it is followed by these rules:
 
 ## 6.8 You may only have ONE faction safehouse claim or ONE personal safehouse claim if you are in a faction. 
 
-| You may have a personal claim within a faction base depending on how your faction is set out. For example, if your faction is based out of an apartment block, you may claim a room in that block. This prevents anybody outside of the faction raiding your room, if you are offline.
+- You may have a personal claim within a faction base depending on how your faction is set out. For example, if your faction is based out of an apartment block, you may claim a room in that block. This prevents anybody outside of the faction raiding your room, if you are offline.
 
 ### 6.8.1 This cannot be used to store all of your factions items.  
 
@@ -414,22 +411,22 @@ Text based combat is allowed providing it is followed by these rules:
 
 ## 7.1 NPC characters will NOT engage first in combat without prior OOC consent with the player.
 
-| [Rule 4.3](Rulebook.md#43-all-players-involved-must-consent-to-pvp-prior-to-the-fighting-commencing) applies.
+- [Rule 4.3](Rulebook.md#43-all-players-involved-must-consent-to-pvp-prior-to-the-fighting-commencing) applies.
 
 
 ## 7.2 Safehouse claims are valid during events. 
 
-| I.E if the player is at the event, they cannot be stolen from in any capacity.
+- I.E if the player is at the event, they cannot be stolen from in any capacity.
 
 
 ## 7.3 Any injuries that may be caused directly to the player by the event staff, will be discussed prior to them being inflicted.
 
-| Rule [Rule 4.3](Rulebook.md#43-all-players-involved-must-consent-to-pvp-prior-to-the-fighting-commencing) applies. Players will have the choice to decline having their characters injured directly by an event team member. However injuries caused indirectly (E.G a zombie spawning and scratching the player character) will not be held responsible by the event staff and does not warrant OOC consent.
+- Rule [Rule 4.3](Rulebook.md#43-all-players-involved-must-consent-to-pvp-prior-to-the-fighting-commencing) applies. Players will have the choice to decline having their characters injured directly by an event team member. However injuries caused indirectly (E.G a zombie spawning and scratching the player character) will not be held responsible by the event staff and does not warrant OOC consent.
 
 
 ## 7.4 Event staff NPC’s will have PVP enabled at all times. 
 
-| [Rule 4.3](Rulebook.md#43-all-players-involved-must-consent-to-pvp-prior-to-the-fighting-commencing) & [7.1](Rulebook.md#71-npc-characters-will-not-engage-first-in-combat-without-prior-ooc-consent-with-the-player) applies. This is so if the player decides to engage in PVP they may do so without injuring other players in their immediate area.
+- [Rule 4.3](Rulebook.md#43-all-players-involved-must-consent-to-pvp-prior-to-the-fighting-commencing) & [7.1](Rulebook.md#71-npc-characters-will-not-engage-first-in-combat-without-prior-ooc-consent-with-the-player) applies. This is so if the player decides to engage in PVP they may do so without injuring other players in their immediate area.
 
 ### 7.4.1 No KOS from either event staff or players.
 
