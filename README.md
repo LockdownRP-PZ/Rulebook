@@ -1,5 +1,7 @@
 # Lockdown RP Rulebook
 
+![RulebookCover](https://github.com/LockdownRP-PZ/Rulebook/images/LockdownRpRulebookCover.png)
+
 # Disclosure:
 
 
