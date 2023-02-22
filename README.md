@@ -26,43 +26,43 @@
 
 # GENERAL SERVER RULES
 
-## 1.1 No Metagaming. 
+### 1.1 No Metagaming. 
 
 - Metagaming is using knowledge gained as a player, not as a character. An example of this would be knowing a character’s name because you can see it in chat logs. Another example would be two different characters that belong to one player interacting/sharing knowledge. Using/sharing screenshots (or general media) of bases to know when and where to attack them also is disallowed.
 
-## 1.2 No Powergaming. 
+### 1.2 No Powergaming. 
 
 - Powergaming is forcing events in a way that excludes/inhibits storytelling and atmosphere. An example of this would be forcing actions or events on another player. Such as removing their ability to move, speak, or otherwise have a chance to interact.
 
 
-## 1.3 No RP Evasion.
+### 1.3 No RP Evasion.
 
 - RP Evasion is deliberately avoiding (by logging out or otherwise) a roleplay situation that is unfavorable for your character/you. Examples of this are rage quitting, logging out if you are captured, or moving away from the scene of a conflict without allowing people to respond with roleplay.
 
 
-## 1.4 No Random Aggression. 
+### 1.4 No Random Aggression. 
 
 - You cannot attempt to kill/rob someone without quality roleplay. This roleplay should include initiating conflict by either the aggressor or defender and both players agreeing to participate. An example of random aggression would be shooting at a random people you see, or walking up to someone and using one line sentences such as, but not limited to, “Your valuables or your life”
 
-Indiscriminantly running people over with vehicles, randomly causing fires, or using a 3-2-1 countdown and then attacking them fall under rule 4 as well. You must give people reasonable time to comply/respond. 
+  Indiscriminantly running people over with vehicles, randomly causing fires, or using a 3-2-1 countdown and then attacking them fall under rule 4 as well. You must give people reasonable time to comply/respond. 
 
 
-## 1.5 Have a sense of self-preservation. 
+### 1.5 Have a sense of self-preservation. 
 
 - Your character is to value their life at all times and act accordingly. For example, if your character is in a position where they are being threatened at gunpoint, they are likely to feel fear and act carefully. They're likely to go along with the aggressor's demands or attempt to earn favor or pity. Similarly, if your character is an aggressor, they're unlikely to threaten someone inside the victim's own base while the victim's allies are close by.
 
 
-## 1.6 Roleplay realistically. 
+### 1.6 Roleplay realistically. 
 
 - Observe actual limitations of your character and the world. An example of this would be taking five knife wounds to the stomach and walking it off like it is nothing. This is not possible for any normal human being.
 
 
-## 1.7 Trolling/Ragebaiting 
+### 1.7 Trolling/Ragebaiting 
 
 - Troll behavior, such as griefing, deliberately causing issues, provoking reactions out of character or in character, are not allowed.
 
 
-## 1.8 Mature themes.
+### 1.8 Mature themes.
 
 - Gore Roleplay, Explicit Torture RP, Slavery RP, Racism/Homophobia, or any other forms of mature (18+) roleplay, is not allowed on the server.
 
@@ -70,123 +70,123 @@ Indiscriminantly running people over with vehicles, randomly causing fires, or u
 # ROLEPLAY RULES
 
 
-## 2.1 You may not break character when using text or VOIP. 
+### 2.1 You may not break character when using text or VOIP. 
 
 - If you need to talk out-of-character, use the proper channels on Discord and on the server. Use /looc if you absolutely have to use OOC to brief those you are roleplaying with for an emergency or in a staff situation, as an example. 
 
 
-## 2.2 You may not roleplay or reference being a real person or character from any media, from modern day or from history.
+### 2.2 You may not roleplay or reference being a real person or character from any media, from modern day or from history.
 
 - You may take inspiration from media, modern day or history but you cannot play them. For example, you could base your character off of “Rick Grimes” but you cannot play a character called "Dick Crimes" who is fundamentally the same as "Rick Grimes" from The Walking Dead.
 
 
-## 2.3 Discord (private or sever) messages do not count as private walkie-talkie channels, unless stated otherwise. 
+### 2.3 Discord (private or sever) messages do not count as private walkie-talkie channels, unless stated otherwise. 
 
 - We have a public discord channel for in-character public radio announcements. You can use it to find other characters or converse with them. There are also and faction channels which registered factions can use for in-character communication on a faction-member-only radio frequency. 
 
 
-## 2.4 You may not abuse any game mechanics to do things your character would not normally be able to do or circumvent normal game mechanics. 
+### 2.4 You may not abuse any game mechanics to do things your character would not normally be able to do or circumvent normal game mechanics. 
 
 - Bug abuse, hacks, and other forms of game exploitation or exploitative base building (skyhouses, building across/onto a lake) are also disallowed. This includes placing walls over bridges. You may build a gate, provided it can be opened normally. If you are unsure, please raise a 📋support-ticket or comment in 💬support 
 
 
-## 2.5 Characters must be of 18 years or older. 
+### 2.5 Characters must be of 18 years or older. 
 
 
-## 2.6 If your character dies legitimately to mechanics (falling, infection, zombieism) you are dead and have been dropped from the whitelist. 
+### 2.6 If your character dies legitimately to mechanics (falling, infection, zombieism) you are dead and have been dropped from the whitelist. 
 
 - You will have to start over with a new character. You will need to submit a whole new application. 
 
-### 2.6.1 Newly created characters have a 72 in-game hour grace period. If you die during this time, you do not need to submit a new character. It is up to you to get your skills and items back; we will not restore it. We offer 1 revive and 3 heals during this grace period.
+#### 2.6.1 Newly created characters have a 72 in-game hour grace period. If you die during this time, you do not need to submit a new character. It is up to you to get your skills and items back; we will not restore it. We offer 1 revive and 3 heals during this grace period.
 
 
-## 2.7 You cannot retrieve your items from a previous character until 2 real life days have passed.
+### 2.7 You cannot retrieve your items from a previous character until 2 real life days have passed.
 
 - We can’t stop you from rejoining your old faction, but you cannot metagame to join the faction. You must discover it in-character. If your faction happened to hold onto your old belongings and just happened to pass it on to you, that is fine. This applies to single player playthroughs, I.E not within a faction, you will still have to wait 2 real life days. You cannot leave a will leaving all your items and/or safehouse as your current character, ready for your next character.
 
 
-## 2.8 If you died/became infected/injured because of a glitch or rule-breaking behavior committed upon you by someone, your character will be restored to as it was prior to the incident.
+### 2.8 If you died/became infected/injured because of a glitch or rule-breaking behavior committed upon you by someone, your character will be restored to as it was prior to the incident.
 
 - Please let us know by opening a support ticket and we will get right on that. We will also heal you if you are injured due to an ingame mechanic gone wrong or griefing. However, we would like you to roleplay the incident as a “near miss.” 
 
 
-## 2.9 Vehicles are limited to one vehicle per person.
+### 2.9 Vehicles are limited to one vehicle per person.
 
 - The ruling is you are allowed to keep one vehicle per person. This lets people have a chance at finding vehicles of their own to work on or salvage parts from. This is important to follow on a smaller map server. 
 
 
-## 2.10 Do not leave the playable area.
+### 2.10 Do not leave the playable area.
 
 - With how the server is being run, we are not permitting anybody to leave “Charming” unless it is for an event, as of right now. Anybody caught sneaking out of the map to go and loot somewhere outside of it, will be teleported back and the items confiscated from them. We will check the logs often to stop any offenses. If you are caught in possession of contraband from outside of the exclusion zone, we will confiscate said items and temporarily ban you for 48 hours. The boundaries are marked by checkpoints and rivers. Do NOT cross them.
 
 
-## 2.11 Romantic relationships are allowed on the server, within reason.
+### 2.11 Romantic relationships are allowed on the server, within reason.
 
 - Marriages, boyfriend/girlfriend scenarios, dating, cohabiting, etc are all acceptable forms of roleplay. However ERP must NOT take place on the server. We have a zero tolerance policy on this. Any player who is uncomfortable with any player advances or feels another player is being inappropriate please do not feel like you cannot come forward, we encourage you to submit a ticket with screenshots of a conversation, this will be handled discreetly and professionally. 
 
 
-## 2.12 There is a ban on disassembling large amounts of furniture for XP gain within houses.
+### 2.12 There is a ban on disassembling large amounts of furniture for XP gain within houses.
 
 - We do not mind you taking some furniture out of the house in question for decoration in your own house. But do not disassemble furniture for XP gain in carpentry. We will remove the XP gain and you will be issued a 24 hour ban. Inside of your own safehouse you may do as you wish with your furniture but in none claimed areas, do not disassemble everything. This is now a recognised form of griefing. 
 
-### 2.12.1 Fences are not part of this and can be deconstructed. Providing they are not safehouse claims or world boundaries.
+#### 2.12.1 Fences are not part of this and can be deconstructed. Providing they are not safehouse claims or world boundaries.
 
 
-## 2.13 There is a ban on vehicle farming on good condition vehicles. You are only allowed to strip for parts vehicles under 25% overall condition.
+### 2.13 There is a ban on vehicle farming on good condition vehicles. You are only allowed to strip for parts vehicles under 25% overall condition.
 
 -  This is because new players may soon find it difficult to grab a good condition vehicle. We want all of our players to be able to have access to everything around them. Breaking down vehicles in good condition will be classed as a form of griefing and be dealt with via a 24 hour ban.
 
 
-## 2.14 World knowledge.
+### 2.14 World knowledge.
 
 -  If your character has been in Charming since the outbreak (in reference to “How did your character find themselves in Charming?” on the application form.) they may have some prior information on some factions, antagonists and major events. 
 
-### 2.14.1 Above all, this does not invalidate [rule 1.1] (Rulebook.md#11-no-metagaming).
+#### 2.14.1 Above all, this does not invalidate [rule 1.1] (Rulebook.md#11-no-metagaming).
 
-### 2.14.2 This does not allow you to know the location of your previous characters loot after their death. This is classed as Meta-gaming and will be dealt with as such. 
+#### 2.14.2 This does not allow you to know the location of your previous characters loot after their death. This is classed as Meta-gaming and will be dealt with as such. 
 
-### 2.14.3 This does not allow you to know precise locations of bases, your character may know the general area but not the exact location. I.E: Bob may know “The Outcasts” are based in Verdict Heights, but not the exact building. You must discover this through Organic Roleplaying means. 
+#### 2.14.3 This does not allow you to know precise locations of bases, your character may know the general area but not the exact location. I.E: Bob may know “The Outcasts” are based in Verdict Heights, but not the exact building. You must discover this through Organic Roleplaying means. 
 
 
-## 2.15 Grace period.
+### 2.15 Grace period.
 
 -  Newly created characters have a 72 in-game hour grace period.. We offer 1 revive and 3 heals during this grace period.
 
-### 2.15.1 Moderators will not heal any wounds caused by trait selection. I.E injured or burnward patient.
+#### 2.15.1 Moderators will not heal any wounds caused by trait selection. I.E injured or burnward patient.
 
-### 2.15.2 If you die during this time, you do not need to submit a new character. It is up to you to get your skills and items back; we will not restore them.
+#### 2.15.2 If you die during this time, you do not need to submit a new character. It is up to you to get your skills and items back; we will not restore them.
 
 
-## 2.16 "Clues."
+### 2.16 "Clues."
 
 -  Whether stealing from a safehouse or a vehicle, or even coming across an old safehouse of a dead character a "clue" gives the player infomation about the location. Clues are done in the form of a note. 
 
-### 2.16.1 Moderators will enforce this ruling. This ruling has been done to make sure players roleplay any criminal interaction that has taken place. We are a story driven server, not a game mechanics driven server.
+#### 2.16.1 Moderators will enforce this ruling. This ruling has been done to make sure players roleplay any criminal interaction that has taken place. We are a story driven server, not a game mechanics driven server.
 
-### 2.16.2 When stealing from a safehouse or a vehicle, a clue must be left at the scene of the crime to lead a trail back to the player. Clues can be done in the form of a note. 
+#### 2.16.2 When stealing from a safehouse or a vehicle, a clue must be left at the scene of the crime to lead a trail back to the player. Clues can be done in the form of a note. 
 
-### 2.16.3 When coming across an old safehouse of a dead character, when it is safe to loot the property, there will be a "clue" outside of the safehouse. This clue can vary but it will inform you that the property has been abandoned and is clear for looting. 
+#### 2.16.3 When coming across an old safehouse of a dead character, when it is safe to loot the property, there will be a "clue" outside of the safehouse. This clue can vary but it will inform you that the property has been abandoned and is clear for looting. 
 
 
-## 2.17 Using information obtained in the :zombie:lost-to-the-hordes (LTTH) channel will be classed as meta-gaming.
+### 2.17 Using information obtained in the :zombie:lost-to-the-hordes (LTTH) channel will be classed as meta-gaming.
 
 -  Players are not allowed to use the LTTH information as in game information. Once the player has found out the character has died in game, then their loot is fair game.
 
-### 2.17.1 There are several ways this can be found out. You may find the player body, a "clue" can be left outside of the property by a member of the moderation or event staff stating the property looks to be abandoned or another player who has found the body can inform you in game.
+#### 2.17.1 There are several ways this can be found out. You may find the player body, a "clue" can be left outside of the property by a member of the moderation or event staff stating the property looks to be abandoned or another player who has found the body can inform you in game.
 
-### 2.17.2 The LTTH channel will be botted so that character deaths are found more organically through the use of "Clues". The bot will be set for a delay of around 48 IRL hours.
+#### 2.17.2 The LTTH channel will be botted so that character deaths are found more organically through the use of "Clues". The bot will be set for a delay of around 48 IRL hours.
 
 
-## 2.18 Roleplay your chosen traits.
+### 2.18 Roleplay your chosen traits.
 
 -  We are a roleplay server first and foremost. When creating your character please pick traits based on relation to your character and not to create an overpowered build. For example, if you choose a trait that is a mental illness, you must roleplay that mental illness.
 
-### 2.18.1 If you are caught with a mental illness trait and not roleplaying it, you will have your traits rebalanced by the moderator team and a warning against you.
+#### 2.18.1 If you are caught with a mental illness trait and not roleplaying it, you will have your traits rebalanced by the moderator team and a warning against you.
 
-### 2.18.2 If you are caught trait farming, this is in breach of rules [1.6](Rulebook.md#16-roleplay-realistically) and [1.2](Rulebook.md#12-no-powergaming).
+#### 2.18.2 If you are caught trait farming, this is in breach of rules [1.6](Rulebook.md#16-roleplay-realistically) and [1.2](Rulebook.md#12-no-powergaming).
 
 
-## 2.19 Skill limiter.
+### 2.19 Skill limiter.
 
 -  We are a roleplay server first and foremost. When creating your character please pick traits based on relation to your character and not to create an overpowered build. To prevent meta buiilds, we have a skill limiter in place that stops players from griding skills that are not relevant to their character.
 
