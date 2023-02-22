@@ -5,29 +5,28 @@
 # Disclosure:
 
 
-*This server is for players 18 and older due to the nature of the content. If you are younger than 18, then we cannot accept you on this server. By applying to play here with us, you confirm that you are at least 18 years of age and agree to the terms of use as detailed in this document.*
+- *This server is for players 18 and older due to the nature of the content. If you are younger than 18, then we cannot accept you on this server. By applying to play here with us, you confirm that you are at least 18 years of age and agree to the terms of use as detailed in this document.*
 
-*The themes of this server’s story and Project Zomboid as a game include: Alcohol, Violence, Blood and Gore, Drug References, and Strong Language.*
+- *The themes of this server’s story and Project Zomboid as a game include: Alcohol, Violence, Blood and Gore, Drug References, and Strong Language.*
 
-*This is an online community and we will do our absolute best to make sure people feel safe and welcome in our community. However, we are not therapists, teachers, or any of the like. We are not accountable for the interactions you experience online. This goes for everyone. If you are being harassed, bullied, or in general do not feel safe because of something or someone in the community, please do not hesitate to reach out to us. You are precious to us and we will do our best to prevent or mitigate harm that may come to you.*
+- *This is an online community and we will do our absolute best to make sure people feel safe and welcome in our community. However, we are not therapists, teachers, or any of the like. We are not accountable for the interactions you experience online. This goes for everyone. If you are being harassed, bullied, or in general do not feel safe because of something or someone in the community, please do not hesitate to reach out to us. You are precious to us and we will do our best to prevent or mitigate harm that may come to you.*
 
-*We aim to give all players a welcoming, friendly experience, which we believe our rules reflect. If you are unsure of any rules, please don't hesitate to ask in the :speech_balloon:support section.*
+- *We aim to give all players a welcoming, friendly experience, which we believe our rules reflect. If you are unsure of any rules, please don't hesitate to ask in the :speech_balloon:support section.*
 
-*As of 05/05/2022 all players MUST be aged 18 or over to play on the server. This also extends to player characters. Members who have been verified before this date will be allowed to stay. This goes for new character applications from previously verified members.*
+- *As of 05/05/2022 all players MUST be aged 18 or over to play on the server. This also extends to player characters. Members who have been verified before this date will be allowed to stay. This goes for new character applications from previously verified members.*
 
 
 # Obligations:
 
 *By applying to this server, you agree to the below and aforementioned rules. Any breaking of said rules may result in a punishment which could include a ban off both the game and discord server. Punishments are dealt out at the administrator discretion.*
 
+![GunFightOnTheCourt](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/GunFightOnTheCourt.png)
 
 # GENERAL SERVER RULES
 
-
-
 ## 1.1 No Metagaming. 
 
-| Metagaming is using knowledge gained as a player, not as a character. An example of this would be knowing a character’s name because you can see it in chat logs. Another example would be two different characters that belong to one player interacting/sharing knowledge. Using/sharing screenshots (or general media) of bases to know when and where to attack them also is disallowed.
+...Metagaming is using knowledge gained as a player, not as a character. An example of this would be knowing a character’s name because you can see it in chat logs. Another example would be two different characters that belong to one player interacting/sharing knowledge. Using/sharing screenshots (or general media) of bases to know when and where to attack them also is disallowed.
 
 
 ## 1.2 No Powergaming. 
