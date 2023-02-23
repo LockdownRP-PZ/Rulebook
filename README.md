@@ -78,13 +78,15 @@
 - If you must talk out-of-character, use the proper channels on Discord and on the server. Use /looc if you absolutely must use OOC to brief those you are roleplaying with for an emergency or in a staff situation, for example. 
 
 
-### 2.2 Do not roleplay or reference being a real person or character from any media, from modern day or from history.
+### 2.2 Roleplay a character of your own design.
 
-- You may take inspiration from media, modern day or history but you cannot play as them. For example, you could take inspiration from “Rick Grimes” from The Walking Dead (for example, by making a cop character who was separated from his family and seeks to return to them), but you cannot play a character called "Dick Crimes" who is fundamentally the same as Rick Grimes.
+- You may not roleplay or reference being a real person or character from any media, from modern day or from history.
+- You may take inspiration from media, modern day or history but you cannot play as them. For example, you could take inspiration from “Rick Grimes” from The Walking Dead (for example, by making a cop character who was separated from his family and seeks to find them), but you cannot play a character called "Dick Crimes" who is fundamentally the same as Rick Grimes.
 
 
-### 2.3 Discord (private or sever) messages do not count as private walkie-talkie channels, unless stated otherwise. 
+### 2.3 Use the proper channels for in-character communication.
 
+- Discord (private or sever) messages do not count as private walkie-talkie channels, unless stated otherwise. 
 - We have a public discord channel for in-character public radio broadcasts. You can use it to find other characters or converse with them. There are also faction channels which registered factions can use for in-character communication on a faction-member-only radio frequency. 
 
 
@@ -112,110 +114,113 @@
 - We offer 1 revive and 3 heals during this grace period.
 - Moderators will not heal any wounds caused by trait selection. I.E injured or burnward patient.
 
-### 2.7 You cannot retrieve your items from a previous character until 2 real life days have passed.
+#### 2.6.2 Reclaiming items from a previous character
 
-- We can’t stop you from rejoining your old faction, but you cannot metagame to join the faction. You must discover it in-character. If your faction happened to hold onto your old belongings and just happened to pass it on to you, that is fine. This applies to single player playthroughs, I.E not within a faction, you will still have to wait 2 real life days. You cannot leave a will leaving all your items and/or safehouse as your current character, ready for your next character.
+- You cannot retrieve your items from a previous character until 2 real life days have passed.
+- We can’t stop you from rejoining your old faction, but you must not metagame to join the faction. You must discover it in-character. 
+- If your faction happened to hold onto your previous character's belongings and happened to pass it on to you, that is fine. 
+- The same applies to independant characters. If not within a faction, you must still wait 2 real life days before recovering your items. 
+- You cannot leave a will promising all your items and/or safehouse to your next character.
+
+#### 2.6.3 Illegitimate deaths
+
+- If you died/became infected/injured because of a glitch or rule-breaking behavior committed upon you by someone, your character will be restored to as it was prior to the incident.
+- Please let us know by opening a support ticket and we will get right on that. We will also heal you if you are injured due to an ingame mechanic gone wrong or griefing. 
+- If you are revived or healed, you must roleplay the incident as a “near miss.” 
 
 
-### 2.8 If you died/became infected/injured because of a glitch or rule-breaking behavior committed upon you by someone, your character will be restored to as it was prior to the incident.
-
-- Please let us know by opening a support ticket and we will get right on that. We will also heal you if you are injured due to an ingame mechanic gone wrong or griefing. However, we would like you to roleplay the incident as a “near miss.” 
-
-
-### 2.9 Vehicles are limited to one vehicle per person.
+### 2.7 Vehicles are limited to one vehicle per person.
 
 - The ruling is you are allowed to keep one vehicle per person. This lets people have a chance at finding vehicles of their own to work on or salvage parts from. This is important to follow on a smaller map server. 
 
 
-### 2.10 Do not leave the playable area.
+### 2.8 Do not leave the playable area.
 
-- With how the server is being run, we are not permitting anybody to leave “Charming” unless it is for an event, as of right now. Anybody caught sneaking out of the map to go and loot somewhere outside of it, will be teleported back and the items confiscated from them. We will check the logs often to stop any offenses. If you are caught in possession of contraband from outside of the exclusion zone, we will confiscate said items and temporarily ban you for 48 hours. The boundaries are marked by checkpoints and rivers. Do NOT cross them.
-
-
-### 2.11 Romantic relationships are allowed on the server, within reason.
-
-- Marriages, boyfriend/girlfriend scenarios, dating, cohabiting, etc are all acceptable forms of roleplay. However ERP must NOT take place on the server. We have a zero tolerance policy on this. Any player who is uncomfortable with any player advances or feels another player is being inappropriate please do not feel like you cannot come forward, we encourage you to submit a ticket with screenshots of a conversation, this will be handled discreetly and professionally. 
+- Each season of Lockdown features a clearly marked playable area. Players may not leave the area unless it is for an event.
+- Anyone caught sneaking out of the map to go and loot somewhere outside of it will be teleported back, and the loot will be confiscated. We check the logs often to stop such offenses. 
+- Violations will be met with a temporarily ban of 48 hours. 
+- The boundaries are marked by checkpoints and rivers. Do NOT cross them.
 
 
-### 2.12 There is a ban on disassembling large amounts of furniture for XP gain within houses.
+### 2.9 Romantic relationships are allowed, within reason.
 
-- We do not mind you taking some furniture out of the house in question for decoration in your own house. But do not disassemble furniture for XP gain in carpentry. We will remove the XP gain and you will be issued a 24 hour ban. Inside of your own safehouse you may do as you wish with your furniture but in none claimed areas, do not disassemble everything. This is now a recognised form of griefing. 
-
-#### 2.12.1 Fences are not part of this and can be deconstructed. Providing they are not safehouse claims or world boundaries.
-
-
-### 2.13 There is a ban on vehicle farming on good condition vehicles. You are only allowed to strip for parts vehicles under 25% overall condition.
-
--  This is because new players may soon find it difficult to grab a good condition vehicle. We want all of our players to be able to have access to everything around them. Breaking down vehicles in good condition will be classed as a form of griefing and be dealt with via a 24 hour ban.
+- Marriages, boyfriend/girlfriend scenarios, dating, cohabiting, etc are all acceptable forms of roleplay. 
+- However ERP must NOT take place on the server. We have a zero tolerance policy on this. 
+- Any player who is uncomfortable with a character's advances or feels another player is being inappropriate may come forward. We encourage you to submit a ticket with screenshots of the conversation. It will be handled discreetly and professionally. 
 
 
-### 2.14 World knowledge.
+### 2.10 Do not disassemble large amounts of furniture for XP gain.
 
--  If your character has been in Charming since the outbreak (in reference to “How did your character find themselves in Charming?” on the application form.) they may have some prior information on some factions, antagonists and major events. 
-
-#### 2.14.1 Above all, this does not invalidate [rule 1.1] (README.md#11-no-metagaming).
-
-#### 2.14.2 This does not allow you to know the location of your previous characters loot after their death. This is classed as Meta-gaming and will be dealt with as such. 
-
-#### 2.14.3 This does not allow you to know precise locations of bases, your character may know the general area but not the exact location. I.E: Bob may know “The Outcasts” are based in Verdict Heights, but not the exact building. You must discover this through Organic Roleplaying means. 
-
-### 2.16 "Clues."
-
--  Whether stealing from a safehouse or a vehicle, or even coming across an old safehouse of a dead character a "clue" gives the player infomation about the location. Clues are done in the form of a note. 
-
-#### 2.16.1 Moderators will enforce this ruling. This ruling has been done to make sure players roleplay any criminal interaction that has taken place. We are a story driven server, not a game mechanics driven server.
-
-#### 2.16.2 When stealing from a safehouse or a vehicle, a clue must be left at the scene of the crime to lead a trail back to the player. Clues can be done in the form of a note. 
-
-#### 2.16.3 When coming across an old safehouse of a dead character, when it is safe to loot the property, there will be a "clue" outside of the safehouse. This clue can vary but it will inform you that the property has been abandoned and is clear for looting. 
+- You may take furniture for decoration in your own house, but do not disassemble furniture for XP gain in carpentry. 
+- If this rule is violated, we will remove the XP gain and you will be issued a 24 hour ban. 
+- Inside of your own safehouse you may do as you wish with your furniture. In unclaimed areas, do not mass disassemble the props. This is a recognised form of griefing. 
+- Fences are not part of this and can be deconstructed, provided they are not safehouse claims or world boundaries.
 
 
-### 2.17 Using information obtained in the :zombie:lost-to-the-hordes (LTTH) channel will be classed as meta-gaming.
+### 2.11 Do not farm good-condition vehicles for parts, scrap, or XP. 
 
--  Players are not allowed to use the LTTH information as in game information. Once the player has found out the character has died in game, then their loot is fair game.
+- You may not salvage or dismantle a vehicle or take parts from its engine unless it is under 35% overall condition.
+- You may take individual components from a vehicle, but do not leave a vehicle with more than three (3) necessary parts missing. 
+  - Necessary parts include: driver's seat, gas tank, battery, tires, brakes, and suspension.
+  - For example, you may take the battery and two tires. Alternatively, you may take the driver's seat, a suspension, and the gas tank.
+  - If the vehicle is already missing a necessary part, you may only take two necessary parts.
+- This rule exists to ensure that new players won't find it too difficult to find a usable vehicle. We want all of our players to have access to reasonable transportation. 
+- Breaking down vehicles in good condition is identified as a form of griefing and will be punished with a 24 hour ban.
+- When training mechanics, do not ruin a vehicle's parts by attempting to remove it with low skill level.
 
-#### 2.17.1 There are several ways this can be found out. You may find the player body, a "clue" can be left outside of the property by a member of the moderation or event staff stating the property looks to be abandoned or another player who has found the body can inform you in game.
 
-#### 2.17.2 The LTTH channel will be botted so that character deaths are found more organically through the use of "Clues". The bot will be set for a delay of around 48 IRL hours.
+### 2.12 World knowledge.
+
+- If your character is a local, they may have some prior information on the world, such as factions, antagonists, and major events. 
+- This does not invalidate [rule 1.1](README.md#11-no-metagaming).
+- This does not allow you to know the location of your previous characters loot after their death. This is classed as Meta-gaming and will be dealt with as such. 
+- This does not allow you to know precise locations of bases. Your character may know the general area but not the exact location. I.E: Bob may know “The Outcasts” are based in Verdict Heights, but not the exact building. You must discover this through Organic Roleplaying. 
+- Players are not allowed to use the :zombie:lost-to-the-hordes (LTTH) channel as in-game information.
+  - Once your character has found out that a character has died (for example by finding the body or being informed by another character), then their loot is fair game.
+  - The staff team may leave a "clue" outside of a dead character's property indicating that the property looks abandoned.
 
 
-### 2.18 Roleplay your chosen traits.
+### 2.13 Roleplay your chosen traits.
 
--  We are a roleplay server first and foremost. When creating your character please pick traits based on relation to your character and not to create an overpowered build. For example, if you choose a trait that is a mental illness, you must roleplay that mental illness.
-
-#### 2.18.1 If you are caught with a mental illness trait and not roleplaying it, you will have your traits rebalanced by the moderator team and a warning against you.
-
-#### 2.18.2 If you are caught trait farming, this is in breach of rules [1.6](README.md#16-roleplay-realistically) and [1.2](README.md#12-no-powergaming).
-
+- When creating your character, please pick traits that relate to your character. For example, if you choose a trait that is a mental illness, you must roleplay that mental illness.
+- If you are caught with a mental illness trait and not roleplaying it, you will have your traits rebalanced by the moderator team, and you will be issued a warning.
+- Trait farming is a breach of rules [1.6](README.md#16-roleplay-realistically) and [1.2](README.md#12-no-powergaming).
 
 ### 2.19 Skill limiter.
 
--  We are a roleplay server first and foremost. When creating your character please pick traits based on relation to your character and not to create an overpowered build. To prevent meta buiilds, we have a skill limiter in place that stops players from griding skills that are not relevant to their character.
-
+- To prevent overpowered builds, we have a skill limiter in place. Your starting skill level determines the maximum skill levels you will be able to reach.
+- Crafting and survival skills are capped depending on your starting points:
+  0 = 5; 1 = 7; 2 = 9; 3 = 10;
+- Weapons skills are capped similarly, but to a lesser extent:
+  0 = 7; 1 = 9; 2 = 10;
+- Agility skills (sprint, sneak, nimble, lightfooted) are capped to an even lesser extent:
+  0 = 9; 1 = 10 
 
 
 # THEFT & BASE THEFT RULES
 
+### 3.1 Offline raiding is strictly prohibited. 
 
-## 3.1 Offline raiding is strictly prohibited. 
+- If you wish to steal from a player/faction base, you must check whether the occupant is online first. Check the safehouse claim note for its member(s).
 
-- If you see a safehouse claim, you must check if the occupant is online first. If you wish to raid a player/faction base. 
+### 3.2 Do not destroy any items or architecture
 
-You must stick to the following:
+- You are not permitted to destroy any items in the base. This included destroying locked containers to force loot to drop. 
+- To gain entry and legally loot a base, the base must be unlocked. You are not permitted to break down a door, wall or barricade. You must find a legitimate way in. 
+  - An example of an illegal base raiding techniques is using zombies to break down parts of a base.
+  - Any form of damage to a base by a player will be classified as griefing and will be dealt with as such.
 
+### 3.3 Do not steal an overwhelming amount.
 
-### 3.1.1 You are not permitted to destroy any items in the base, this included any locked containers to allow loot to drop. 
+- You may only steal 30 units of encumbrance total per theif, up to a maximum of three thieves. 
 
-### 3.1.2 You may only carry 30lbs per person total of items from said player/faction base, up to a maximum of three players that are looting. 
+### 3.4 Do not bully a player or faction through stealing. 
 
-### 3.1.3 To gain entry and legally loot a base, the base must be unlocked. You are not permitted to break down a door, wall or barricade. You must find a legitimate way in. Some illegal base raiding techniques include, but not limited to, using zombies to break down parts of a base. This is classed as griefing. Any form of damage to a base by a player in any form will be classified as griefing and will be dealt with as such.
+- You may only steal from a player or faction once in a 72 hour period.
 
-### 3.1.4 Taking vehicles while an owner is offline is considered offline raiding if within the area of the player/faction base. 
+### 3.5 Report your theft be opening a support ticket. 
 
-### 3.1.5 You can only raid the same player base once in a 72 hour period. This is to prevent bullying and allow the player to regain some of their items. 
-
-
-## 3.2 Once this is done, please open a support ticket letting us know the list of items that you have stolen and the players involved and the victim. 
+- Open a support ticket letting us know the list of items that you have stolen and the players involved and the victim. 
 
 - This is so we can keep track of legitimate raids, duplications and bugs. Failing to report the raid makes it illegal and all items will be returned to the owner. This step must be done within 1 hour of the action taking place so that we can log it and inform the owner if they raise it as a bug. Vehicle theft must be included in the support ticket. Even if the action is roleplayed out with the player present. Same time limit applies.
 
@@ -223,6 +228,13 @@ You must stick to the following:
 ## 3.3 When a player has stolen from another players base, they must leave clues behind to determine who the culprit was. 
 
 - Some examples of this could be "*A torn piece of leather with a biker patch was left at the scene of the crime. Some black hair dye could be seen splashed on the walls.*"
+
+### 2.13 "Clues."
+
+- Whether stealing from a safehouse or a vehicle, or even coming across an old safehouse of a dead character a "clue" gives the player infomation about the location. Clues are done in the form of a note. 
+- Moderators will enforce this ruling. This ruling has been done to make sure players roleplay any criminal interaction that has taken place. We are a story driven server, not a game mechanics driven server.
+- When stealing from a safehouse or a vehicle, a clue must be left at the scene of the crime to lead a trail back to the player. Clues can be done in the form of a note. 
+- When coming across an old safehouse of a dead character, when it is safe to loot the property, there will be a "clue" outside of the safehouse. This clue can vary but it will inform you that the property has been abandoned and is clear for looting. 
 
 
 ## 3.4 You may steal FROM a vehicle however you cannot steal THE vehicle. 
