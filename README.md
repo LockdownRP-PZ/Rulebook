@@ -62,43 +62,55 @@
 - Troll behavior, such as griefing, deliberately causing issues, provoking reactions out of character or in character, are not allowed.
 
 
-### 1.8 Mature themes.
+### 1.8 Perverse themes.
 
-- Gore Roleplay, Explicit Torture RP, Slavery RP, Racism/Homophobia, or any other forms of mature (18+) roleplay, is not allowed on the server.
+- Gore Roleplay, Explicit Torture RP, Slavery RP, Racism/Homophobia, or any other forms of perverse roleplay, is not allowed on the server.
 
+***
+
+![TheCrowCampground](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheCrowCampground.png)
 
 # ROLEPLAY RULES
 
 
-### 2.1 You may not break character when using text or VOIP. 
+### 2.1 Do not break character when in-game. 
 
-- If you need to talk out-of-character, use the proper channels on Discord and on the server. Use /looc if you absolutely have to use OOC to brief those you are roleplaying with for an emergency or in a staff situation, as an example. 
+- If you must talk out-of-character, use the proper channels on Discord and on the server. Use /looc if you absolutely must use OOC to brief those you are roleplaying with for an emergency or in a staff situation, for example. 
 
 
-### 2.2 You may not roleplay or reference being a real person or character from any media, from modern day or from history.
+### 2.2 Do not roleplay or reference being a real person or character from any media, from modern day or from history.
 
-- You may take inspiration from media, modern day or history but you cannot play them. For example, you could base your character off of “Rick Grimes” but you cannot play a character called "Dick Crimes" who is fundamentally the same as "Rick Grimes" from The Walking Dead.
+- You may take inspiration from media, modern day or history but you cannot play as them. For example, you could take inspiration from “Rick Grimes” from The Walking Dead (for example, by making a cop character who was separated from his family and seeks to return to them), but you cannot play a character called "Dick Crimes" who is fundamentally the same as Rick Grimes.
 
 
 ### 2.3 Discord (private or sever) messages do not count as private walkie-talkie channels, unless stated otherwise. 
 
-- We have a public discord channel for in-character public radio announcements. You can use it to find other characters or converse with them. There are also and faction channels which registered factions can use for in-character communication on a faction-member-only radio frequency. 
+- We have a public discord channel for in-character public radio broadcasts. You can use it to find other characters or converse with them. There are also faction channels which registered factions can use for in-character communication on a faction-member-only radio frequency. 
 
 
-### 2.4 You may not abuse any game mechanics to do things your character would not normally be able to do or circumvent normal game mechanics. 
+### 2.4 Do not abuse game mechanics.
 
-- Bug abuse, hacks, and other forms of game exploitation or exploitative base building (skyhouses, building across/onto a lake) are also disallowed. This includes placing walls over bridges. You may build a gate, provided it can be opened normally. If you are unsure, please raise a 📋support-ticket or comment in 💬support 
+- You must not use exploits or circumvent normal game mechanics to do things your character would not normally be able to do. 
+- Bug abuse, hacks, and other forms of game exploitation are disallowed. 
+- Exploitative base building (skyhouses, building across/onto a lake) is also disallowed. This includes placing walls over bridges. You may build a gate, provided it can be opened normally. 
+- If you are unsure about a mechanic, please raise a 📋support-ticket or comment in 💬support 
 
 
-### 2.5 Characters must be of 18 years or older. 
+### 2.5 Characters must be 18 years of age or older. 
 
 
-### 2.6 If your character dies legitimately to mechanics (falling, infection, zombieism) you are dead and have been dropped from the whitelist. 
+### 2.6 Death is the end of your character.
 
+- If your character dies legitimately to game mechanics (falling, infection, bleeding), you are dead and will be dropped from the whitelist. 
 - You will have to start over with a new character. You will need to submit a whole new application. 
 
-#### 2.6.1 Newly created characters have a 72 in-game hour grace period. If you die during this time, you do not need to submit a new character. It is up to you to get your skills and items back; we will not restore it. We offer 1 revive and 3 heals during this grace period.
+#### 2.6.1 Grace period
 
+- Newly created characters have a 72 in-game hour grace period. 
+- If you die during this time, you do not need to submit a new character. 
+- It is up to you to get your skills and items back; we will not restore them. 
+- We offer 1 revive and 3 heals during this grace period.
+- Moderators will not heal any wounds caused by trait selection. I.E injured or burnward patient.
 
 ### 2.7 You cannot retrieve your items from a previous character until 2 real life days have passed.
 
@@ -141,21 +153,11 @@
 
 -  If your character has been in Charming since the outbreak (in reference to “How did your character find themselves in Charming?” on the application form.) they may have some prior information on some factions, antagonists and major events. 
 
-#### 2.14.1 Above all, this does not invalidate [rule 1.1] (Rulebook.md#11-no-metagaming).
+#### 2.14.1 Above all, this does not invalidate [rule 1.1] (README.md#11-no-metagaming).
 
 #### 2.14.2 This does not allow you to know the location of your previous characters loot after their death. This is classed as Meta-gaming and will be dealt with as such. 
 
 #### 2.14.3 This does not allow you to know precise locations of bases, your character may know the general area but not the exact location. I.E: Bob may know “The Outcasts” are based in Verdict Heights, but not the exact building. You must discover this through Organic Roleplaying means. 
-
-
-### 2.15 Grace period.
-
--  Newly created characters have a 72 in-game hour grace period.. We offer 1 revive and 3 heals during this grace period.
-
-#### 2.15.1 Moderators will not heal any wounds caused by trait selection. I.E injured or burnward patient.
-
-#### 2.15.2 If you die during this time, you do not need to submit a new character. It is up to you to get your skills and items back; we will not restore them.
-
 
 ### 2.16 "Clues."
 
@@ -183,12 +185,13 @@
 
 #### 2.18.1 If you are caught with a mental illness trait and not roleplaying it, you will have your traits rebalanced by the moderator team and a warning against you.
 
-#### 2.18.2 If you are caught trait farming, this is in breach of rules [1.6](Rulebook.md#16-roleplay-realistically) and [1.2](Rulebook.md#12-no-powergaming).
+#### 2.18.2 If you are caught trait farming, this is in breach of rules [1.6](README.md#16-roleplay-realistically) and [1.2](README.md#12-no-powergaming).
 
 
 ### 2.19 Skill limiter.
 
 -  We are a roleplay server first and foremost. When creating your character please pick traits based on relation to your character and not to create an overpowered build. To prevent meta buiilds, we have a skill limiter in place that stops players from griding skills that are not relevant to their character.
+
 
 
 # THEFT & BASE THEFT RULES
@@ -411,7 +414,7 @@ Text based combat is allowed providing it is followed by these rules:
 
 ## 7.1 NPC characters will NOT engage first in combat without prior OOC consent with the player.
 
-- [Rule 4.3](Rulebook.md#43-all-players-involved-must-consent-to-pvp-prior-to-the-fighting-commencing) applies.
+- [Rule 4.3](README.md#43-all-players-involved-must-consent-to-pvp-prior-to-the-fighting-commencing) applies.
 
 
 ## 7.2 Safehouse claims are valid during events. 
@@ -421,17 +424,17 @@ Text based combat is allowed providing it is followed by these rules:
 
 ## 7.3 Any injuries that may be caused directly to the player by the event staff, will be discussed prior to them being inflicted.
 
-- Rule [Rule 4.3](Rulebook.md#43-all-players-involved-must-consent-to-pvp-prior-to-the-fighting-commencing) applies. Players will have the choice to decline having their characters injured directly by an event team member. However injuries caused indirectly (E.G a zombie spawning and scratching the player character) will not be held responsible by the event staff and does not warrant OOC consent.
+- Rule [Rule 4.3](README.md#43-all-players-involved-must-consent-to-pvp-prior-to-the-fighting-commencing) applies. Players will have the choice to decline having their characters injured directly by an event team member. However injuries caused indirectly (E.G a zombie spawning and scratching the player character) will not be held responsible by the event staff and does not warrant OOC consent.
 
 
 ## 7.4 Event staff NPC’s will have PVP enabled at all times. 
 
-- [Rule 4.3](Rulebook.md#43-all-players-involved-must-consent-to-pvp-prior-to-the-fighting-commencing) & [7.1](Rulebook.md#71-npc-characters-will-not-engage-first-in-combat-without-prior-ooc-consent-with-the-player) applies. This is so if the player decides to engage in PVP they may do so without injuring other players in their immediate area.
+- [Rule 4.3](README.md#43-all-players-involved-must-consent-to-pvp-prior-to-the-fighting-commencing) & [7.1](README.md#71-npc-characters-will-not-engage-first-in-combat-without-prior-ooc-consent-with-the-player) applies. This is so if the player decides to engage in PVP they may do so without injuring other players in their immediate area.
 
 ### 7.4.1 No KOS from either event staff or players.
 
 ### 7.4.2 Explosives may damage yourself, the NPC in question and any group you may have been accompanied by.
 
-### 7.4.3 If the players decide PVP against the NPC during an RP interaction, rule [7.3](Rulebook.md#73-any-injuries-that-may-be-caused-directly-to-the-player-by-the-event-staff-will-be-discussed-prior-to-them-being-inflicted) is void from the event staff.
+### 7.4.3 If the players decide PVP against the NPC during an RP interaction, rule [7.3](README.md#73-any-injuries-that-may-be-caused-directly-to-the-player-by-the-event-staff-will-be-discussed-prior-to-them-being-inflicted) is void from the event staff.
 
 ### 7.4.4 Staff will have PVP turned off if it is for ambient noises. I.E a distant gunshot. If the interaction is not intended to injure the player.
