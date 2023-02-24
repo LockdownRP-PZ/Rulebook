@@ -159,14 +159,17 @@
 
 ### 2.11 Do not farm good-condition vehicles for parts, scrap, or XP. 
 
-- You may not salvage or dismantle a vehicle or take parts from its engine unless it is under 35% overall condition.
-- You may take individual components from a vehicle, but do not leave a vehicle with more than three (3) necessary parts missing. 
+- This rule exists to ensure that new players won't find it too difficult to obtain a usable vehicle. We want all of our players to have access to reasonable transportation. 
+- If a vehicle is over 35% condition, you may not salvage, dismantle, or take engine parts from it.
+  - Engine parts can be crafted thanks to our modlist. Seek out skilled craftspeople (players or NPCs) for help if you have trouble getting engine parts.
+- You may take individual components (aside from the engine) from a vehicle, but do not leave a vehicle with more than three (3) necessary parts missing. 
   - Necessary parts include: driver's seat, gas tank, battery, tires, brakes, and suspension.
   - For example, you may take the battery and two tires. Alternatively, you may take the driver's seat, a suspension, and the gas tank.
   - If the vehicle is already missing a necessary part, you may only take two necessary parts.
-- This rule exists to ensure that new players won't find it too difficult to find a usable vehicle. We want all of our players to have access to reasonable transportation. 
-- Breaking down vehicles in good condition is identified as a form of griefing and will be punished with a 24 hour ban.
-- When training mechanics, do not ruin a vehicle's parts by attempting to remove it with low skill level.
+- When training mechanics, do not ruin a vehicle's parts by attempting to remove them with low skill level.
+  - At low levels, the battery, radio, head/tail lights, and tires can be removed with no chance of damage. 
+  - You may make attempts to remove a part beyond your skill level, but do not do so excessively. 
+- Violations of this rule are identified as a form of griefing and will be punished with a 24 hour ban.
 
 
 ### 2.12 World knowledge.
@@ -177,16 +180,19 @@
 - This does not allow you to know precise locations of bases. Your character may know the general area but not the exact location. I.E: Bob may know “The Outcasts” are based in Verdict Heights, but not the exact building. You must discover this through Organic Roleplaying. 
 - Players are not allowed to use the :zombie:lost-to-the-hordes (LTTH) channel as in-game information.
   - Once your character has found out that a character has died (for example by finding the body or being informed by another character), then their loot is fair game.
-  - The staff team may leave a "clue" outside of a dead character's property indicating that the property looks abandoned.
+  - The staff team may remove the claim of a dead character's property, indicating that the property is abandoned.
 
 
-### 2.13 Roleplay your chosen traits.
+### 2.13 Roleplay your chosen PZ traits.
 
-- When creating your character, please pick traits that relate to your character. For example, if you choose a trait that is a mental illness, you must roleplay that mental illness.
-- If you are caught with a mental illness trait and not roleplaying it, you will have your traits rebalanced by the moderator team, and you will be issued a warning.
-- Trait farming is a breach of rules [1.6](README.md#16-roleplay-realistically) and [1.2](README.md#12-no-powergaming).
+- When creating your character, pick traits that relate to your character. For example:
+  - If you choose the cowardly trait, roleplay being cowardly. 
+  - If you choose the ADHD trait, roleplay the effects of ADHD on your character.
+- You're not required to roleplay every trait you choose or to only choose traits that are part of your backstory. Keep your character in mind and choose traits that make sense.
+- If you are caught with an excessive amount of traits you are not roleplaying, you will have your traits rebalanced by the moderator team and will be issued a warning.
+- Creating an optimized build without regard to your written character is a breach of rule [1.2](README.md#12-no-metagaming).
 
-### 2.19 Skill limiter.
+### 2.14 Skill limiter.
 
 - To prevent overpowered builds, we have a skill limiter in place. Your starting skill level determines the maximum skill levels you will be able to reach.
 - Crafting and survival skills are capped depending on your starting points:
@@ -201,7 +207,7 @@
 
 ### 3.1 Offline raiding is strictly prohibited. 
 
-- If you wish to steal from a player/faction base, you must check whether the occupant is online first. Check the safehouse claim note for its member(s).
+- If you wish to steal from a player/faction, you must check whether the occupant is online first. Check the safehouse or vehicle claim note for its member(s).
 
 ### 3.2 Do not destroy any items or architecture
 
@@ -214,42 +220,35 @@
 
 - You may only steal 30 units of encumbrance total per theif, up to a maximum of three thieves. 
 
-### 3.4 Do not bully a player or faction through stealing. 
+### 3.4 Do not steal vehicles.
 
-- You may only steal from a player or faction once in a 72 hour period.
+- You may steal FROM a vehicle however you cannot steal THE vehicle. 
 
-### 3.5 Report your theft be opening a support ticket. 
+### 3.5 Do not bully a player or faction through stealing. 
 
-- Open a support ticket letting us know the list of items that you have stolen and the players involved and the victim. 
+- You may only steal from a player or faction once in a 72 (real-life) hour period.
 
-- This is so we can keep track of legitimate raids, duplications and bugs. Failing to report the raid makes it illegal and all items will be returned to the owner. This step must be done within 1 hour of the action taking place so that we can log it and inform the owner if they raise it as a bug. Vehicle theft must be included in the support ticket. Even if the action is roleplayed out with the player present. Same time limit applies.
+### 3.6 Leave a clue
 
-
-## 3.3 When a player has stolen from another players base, they must leave clues behind to determine who the culprit was. 
-
+- When a player has stolen from another player, whether at their base, their vehicle, or elsewhere, they must leave a clue behind give the victim a lead on the culprit.
+- Clues are done in the form of a note and/or items.
 - Some examples of this could be "*A torn piece of leather with a biker patch was left at the scene of the crime. Some black hair dye could be seen splashed on the walls.*"
+- "*A torn piece of denim clothing has been left at the scene with red hair dye splattered over the clothing piece*."
 
-### 2.13 "Clues."
+- This rule exists to make sure players roleplay any criminal interaction that has taken place. We are a story driven server, and thefts are expected to result in roleplay.
 
-- Whether stealing from a safehouse or a vehicle, or even coming across an old safehouse of a dead character a "clue" gives the player infomation about the location. Clues are done in the form of a note. 
-- Moderators will enforce this ruling. This ruling has been done to make sure players roleplay any criminal interaction that has taken place. We are a story driven server, not a game mechanics driven server.
-- When stealing from a safehouse or a vehicle, a clue must be left at the scene of the crime to lead a trail back to the player. Clues can be done in the form of a note. 
-- When coming across an old safehouse of a dead character, when it is safe to loot the property, there will be a "clue" outside of the safehouse. This clue can vary but it will inform you that the property has been abandoned and is clear for looting. 
+### 3.5 Report your theft by opening a support ticket. 
 
-
-## 3.4 You may steal FROM a vehicle however you cannot steal THE vehicle. 
-
-### 3.4.1 Standard theft rules apply.
-
-### 3.4.2 You may only carry 30lbs per person total of items from said player/faction vehicle, up to a maximum of three players that are looting. 
-
-### 3.4.3 You cannot steal from the vehicle if it is within the safehouse boundaries and the player is offline. 
-
-### 3.4.4 You cannot steal from a nomadic players base while they are offline, this is due to their vehicle being a safehouse claim. 
-
-### 3.4.5 If you steal an item from the vehicle, you must leave a clue by the vehicle. I.E "*A torn piece of denim clothing has been left at the scene with red hair dye splattered over the clothing piece*." 
-
-### 3.4.6 You must have a claim by the vehicle for this to be valid. 
+- Open a support ticket and describe the theft. Include the following, using screenshots and/or text:
+  - The list of items stolen 
+  - The list of accomplices
+  - The victim(s) of the theft
+  - The clue(s) left at the scene
+  - A screenshot showing that the victim was online.
+- These tickets are necessary to keep track of legitimate raids, bugs, and unexplained losses. 
+- Failing to report the raid makes it illegal. All items will be returned to the owner. 
+- Thefts must be reported within 1 hour of the action taking place. 
+- Reporting the theft is necessary even if the action is roleplayed out with the player present. The same time limit applies.
 
 
 # PVP RULES
