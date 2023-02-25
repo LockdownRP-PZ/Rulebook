@@ -50,7 +50,11 @@
 
 ### 1.3 No RP Evasion
 
-- RP Evasion is deliberately avoiding (by logging out or otherwise) a roleplay situation that is unfavorable for your character/you. Examples of this are rage quitting, logging out if you are captured, or moving away from the scene of a conflict without allowing people to respond with roleplay.
+- RP Evasion is deliberately avoiding (by logging out or otherwise) a roleplay situation that is unfavorable for your character/you. 
+- Examples:
+  - Rage quitting
+  - Logging out if you are caught
+  - Moving away from the scene of a conflict without allowing people to respond with roleplay
 
 
 ### 1.4 No Random Aggression
@@ -72,7 +76,8 @@
 
 ### 1.6 Roleplay realistically
 
-- Observe actual limitations of your character and the world. An example of this would be taking five knife wounds to the stomach and walking it off like it is nothing. This is not possible for any normal human being.
+- Observe realistic limitations of your character and the world. 
+- An example of violating this rule would be taking five knife wounds to the stomach and walking it off like it is nothing. This is not possible for any normal human being.
 
 
 ### 1.7 No Trolling/Ragebaiting 
@@ -80,7 +85,7 @@
 - Troll behavior, such as griefing, deliberately causing issues, provoking reactions out of character or in character, are not allowed.
 
 
-### 1.8 No Perverse themes
+### 1.8 No perverse themes
 
 - Gore Roleplay, Explicit Torture RP, Slavery RP, Racism/Homophobia, or any other forms of perverse roleplay, is not allowed on the server.
 
