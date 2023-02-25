@@ -138,12 +138,6 @@
 - Please let us know by opening a support ticket and we will get right on that. We will also heal you if you are injured due to an ingame mechanic gone wrong or griefing. 
 - If you are revived or healed, you must roleplay the incident as a “near miss.” 
 
-
-### 2.7 Vehicles are limited to one vehicle per person.
-
-- The ruling is you are allowed to keep one vehicle per person. This lets people have a chance at finding vehicles of their own to work on or salvage parts from. This is important to follow on a smaller map server. 
-
-
 ### 2.8 Do not leave the playable area.
 
 - Each season of Lockdown features a clearly marked playable area. Players may not leave the area unless it is for an event.
@@ -350,7 +344,7 @@ Text based combat is allowed, provided the following rules are observed.
 
 ![MeritReevesFinalConfrontation](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/MeritReevesFinalConfrontation.png)
 
-# SAFEHOUSE CLAIMS
+# SAFEHOUSE AND VEHICLE CLAIMS
 
 
 ### 5.1 Players may claim a safehouse after surviving 72 in-game hours.
@@ -366,19 +360,33 @@ Text based combat is allowed, provided the following rules are observed.
 - The claim note must include the safehouse owner's name(s). 
   - Please place each owner/user of the safehouse on the note. This is to prevent any offline raiding and also so we know who has access to your items when you are not online.
 
-### 5.4 Only areas, buildings, rooms, and vehicles may be claimed.
+### 5.4 Only clearly-marked-areas, buildings, rooms, and vehicles may be claimed.
 
 - A particular container in a property cannot be claimed. Claimed containers will not be subject to theft rules.
 - To claim an area, wall off the area by either a fence or wall and place a claim note by each entrance (such as a gate or an empty space in the wall/fence).
 
-### 5.3 Do not claim an unreasonably large area.
+### 5.5 Do not claim an unreasonably large area.
 
 - A single player may not claim an apartment block. However, they can claim a cell within it. 
 - A group of 3 or more can claim a full apartment block as their safehouse.
 
-## 5.4 Nomadic players can claim their vehicle and/or trailer as their safehouse.
+### 5.6 Players may claim one hauling vehicle, one mobility vehicle, and one seaworthy vehicle.
 
-- If you wish to do this, simply leave a claim note outside of the vehicle where it will be visible. This acts as a player safehouse. If you leave your trailer behind, this will act as your safehouse if you have a claim note visible.
+- Players may own a maximum of three (3) vehicles - one of each category.
+  - Hauling vehicle (truck, standard car, sports car)
+  - Mobility vehicle (motorcycle, scooter, ATV)
+  - Seaworthy vehicle (yacht, speed boat, jet ski)
+- Players may claim one (1) trailer in addition to their vehicles.
+- To claim a vehicle, place a note in its glove box, in its trunk, and/or on the ground nearby.
+
+### 5.7 Players can claim a nomad vehicle in lieu of a safehouse.
+
+- Thanks to the Vehicle Interiors mod, some vehicles have interiors that can be entered and lived in. These are known as nomad vehicles. Claiming one counts as claiming a safehouse.
+  - By claiming a nomad vehicle, you forfeit your ability to claim a building/room/area.
+  - You may only own *one* nomad vehicle. This means that if you have an RV, you may not also own a yacht.
+- Your nomad vehicle counts as one of your three vehicles. A bus, for example, counts as your hauling vehicle.
+- Claiming a safehouse vehicle is done the same as claiming a regular vehicle.
+
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -420,9 +428,14 @@ Text based combat is allowed, provided the following rules are observed.
 - Each player is limited to 30 lbs of weight. You can now use up to 5 players for a faction V faction base raid. 
 - Offline raiding is still prohibited. At least 1 member of a faction must be online to commence the base raid. 
 
-### 6.7 You may only have ONE faction safehouse claim or ONE personal safehouse claim if you are in a faction. 
+### 6.7 Factions may claim a faction safehouse 
 
-- You may have a personal claim within a faction base depending on how your faction is set out. For example, if your faction is based out of an apartment block, you may claim a room in that block. This prevents anybody outside of the faction raiding your room, if you are offline.
+- Faction safehouses are allowed be larger than independent player safehouses.
+- If your faction decides to claim a faction safehouse, all members must consolidate their safehouse claims into it. That is, members must forfeit their independent safehouse claims and move into the faction safehouse.
+- Each player may have a personal claim within a faction base. 
+  - For example, if your faction is based out of an apartment block, you may claim a room in that block. 
+  - A faction member's personal claim is treated separately from the faction base (it may not be stolen from if the member is offline).
+
 
 ---------------------------------------------------------------------------------------------------------------------
 
