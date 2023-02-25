@@ -151,7 +151,7 @@
 - Please let us know by opening a support ticket and we will get right on that. We will also heal you if you are injured due to an ingame mechanic gone wrong or griefing. 
 - If you are revived or healed, you must roleplay the incident as a “near miss.” 
 
-### 2.8 Do not leave the playable area.
+### 2.7 Do not leave the playable area.
 
 - Each season of Lockdown features a clearly marked playable area. Players may not leave the area unless it is for an event.
 - Anyone caught sneaking out of the map to go and loot somewhere outside of it will be teleported back, and the loot will be confiscated. We check the logs often to stop such offenses. 
@@ -159,14 +159,14 @@
 - The boundaries are marked by checkpoints and rivers. Do NOT cross them.
 
 
-### 2.9 Romantic relationships are allowed, within reason.
+### 2.8 Romantic relationships are allowed, within reason.
 
 - Marriages, boyfriend/girlfriend scenarios, dating, cohabiting, etc are all acceptable forms of roleplay. 
 - However ERP must NOT take place on the server. We have a zero tolerance policy on this. 
 - Any player who is uncomfortable with a character's advances or feels another player is being inappropriate may come forward. We encourage you to submit a ticket with screenshots of the conversation. It will be handled discreetly and professionally. 
 
 
-### 2.10 Do not disassemble large amounts of furniture for XP gain.
+### 2.9 Do not disassemble large amounts of furniture for XP gain.
 
 - You may take furniture for decoration in your own house, but do not disassemble furniture for XP gain in carpentry. 
 - If this rule is violated, we will remove the XP gain and you will be issued a 24 hour ban. 
@@ -174,7 +174,7 @@
 - Fences are not part of this and can be deconstructed, provided they are not safehouse claims or world boundaries.
 
 
-### 2.11 Do not farm good-condition vehicles for parts, scrap, or XP. 
+### 2.10 Do not farm good-condition vehicles for parts, scrap, or XP. 
 
 - This rule exists to ensure that new players won't find it too difficult to obtain a usable vehicle. We want all of our players to have access to reasonable transportation. 
 - If a vehicle is over 35% condition, you may not salvage, dismantle, or take engine parts from it.
@@ -188,7 +188,7 @@
 - Violations of this rule are identified as a form of griefing and will be punished with a 24 hour ban.
 
 
-### 2.12 World knowledge.
+### 2.11 World knowledge.
 
 - If your character is a local, they may have some prior information on the world, such as factions, antagonists, and major events. 
 - This does not invalidate [rule 1.1](README.md#11-no-metagaming).
@@ -199,7 +199,7 @@
   - The staff team may remove the claim of a dead character's property, indicating that the property is abandoned.
 
 
-### 2.13 Roleplay your chosen PZ traits.
+### 2.12 Roleplay your chosen PZ traits.
 
 - When creating your character, pick traits that relate to your character. For example:
   - If you choose the cowardly trait, roleplay being cowardly. 
@@ -208,7 +208,7 @@
 - If you are caught with an excessive amount of traits you are not roleplaying, you will have your traits rebalanced by the moderator team and will be issued a warning.
 - Creating an optimized build without regard to your written character is a breach of rule [1.2](README.md#12-no-metagaming).
 
-### 2.14 Skill limiter.
+### 2.13 Skill limiter.
 
 - To prevent overpowered builds, we have a skill limiter in place. Your starting skill level determines the maximum skill levels you will be able to reach.
 - Crafting and survival skills are capped depending on your starting points:
@@ -311,7 +311,7 @@ Keep in mind the [General Server Rules](#general-server-rules) when considering 
 - In a PvP situation involving multiple players where not everyone consents, the non-consenting players must move away from the PvP area.
 - Do not attempt to join into the middle of a PvP scenario. Project Zomboid PvP is often quick and deadly.
 
-### 4.3 Toggling PvP on before PvP starts.
+### 4.3 Toggle PvP on before PvP starts.
 
 - In Project Zomboid, any character with PvP enabled on can hit or be hit by any other player, regardless of other players' PvP setting.
 - All players who consent to PvP must toggle PVP on. 
@@ -321,8 +321,8 @@ Keep in mind the [General Server Rules](#general-server-rules) when considering 
 
 ### 4.4 Quid Pro Quo PvP
 
-- If you attack a player in PVP (consent needed) or mug them (alternative to PVP if all parties do not agree), the victim (if they are alive) can engage in PVP with the aggressor without gaining consent for PVP. However the situation must be roleplayed out before combat starts. 
-- This does not advocate KOS.
+- If you attack a player in PVP (consent needed) or mug them (alternative to PVP if all parties do not agree), the victim (if they are alive) can engage in PVP with the aggressor without gaining consent for PVP. 
+- This does not advocate KOS. The situation must still be roleplayed out before combat starts. 
 - The victim must warn the aggressor before PVP initiates
 - This happens over TWO separate interactions. 
 
