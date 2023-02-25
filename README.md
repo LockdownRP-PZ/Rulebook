@@ -20,53 +20,63 @@
 
 *By applying to this server, you agree to the below and aforementioned rules. Any breaking of said rules may result in a punishment which could include a ban off both the game and discord server. Punishments are dealt out at the administrator discretion.*
 
-***
+---------------------------------------------------------------------------------------------------------------------
 
 ![GunFightOnTheBBallCourt](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/GunFightOnTheBBallCourt.png)
 
 # GENERAL SERVER RULES
 
-### 1.1 No Metagaming. 
+### 1.1 No Metagaming
 
-- Metagaming is using knowledge gained as a player, not as a character. An example of this would be knowing a character’s name because you can see it in chat logs. Another example would be two different characters that belong to one player interacting/sharing knowledge. Using/sharing screenshots (or general media) of bases to know when and where to attack them also is disallowed.
+- Metagaming is intentionally revealing or using in-character information through out-of-character avenues. 
+- Metagaming includes but is not limited to:
+  - Knowing a character’s name because you can see it in chat logs. 
+  - Knowing the location and names of characters because your previous character knew them. 
+  - Using/sharing screenshots (or Internet media) of in-game locations to know where to attack an opponent's base.
+  - Coordinating with other players out-of-character (such as in a voice chat) to reach a certain resolution in an in-character situation.
 
-### 1.2 No Powergaming. 
+### 1.2 No Powergaming
 
-- Powergaming is forcing events in a way that excludes/inhibits storytelling and atmosphere. An example of this would be forcing actions or events on another player. Such as removing their ability to move, speak, or otherwise have a chance to interact.
+- Powergaming is forcing the outcome of events in a way that excludes/inhibits storytelling and atmosphere. It could be described as "playing to win" rather than honoring creative roleplay.
+- Never remove another character's ability to move, speak, or otherwise have a chance to interact.
+- Powergaming includes but is not limited to:
+  - Complete fearlessness for your character's safety
+  - Having excessive knowledge
+  - Being skilled at too many things
 
 
-### 1.3 No RP Evasion.
+### 1.3 No RP Evasion
 
 - RP Evasion is deliberately avoiding (by logging out or otherwise) a roleplay situation that is unfavorable for your character/you. Examples of this are rage quitting, logging out if you are captured, or moving away from the scene of a conflict without allowing people to respond with roleplay.
 
 
-### 1.4 No Random Aggression. 
+### 1.4 No Random Aggression
 
 - You cannot attempt to kill/rob someone without quality roleplay. This roleplay should include initiating conflict by either the aggressor or defender and both players agreeing to participate. An example of random aggression would be shooting at a random people you see, or walking up to someone and using one line sentences such as, but not limited to, “Your valuables or your life”
 
   Indiscriminantly running people over with vehicles, randomly causing fires, or using a 3-2-1 countdown and then attacking them fall under rule 4 as well. You must give people reasonable time to comply/respond. 
 
 
-### 1.5 Have a sense of self-preservation. 
+### 1.5 Have a sense of self-preservation.
 
 - Your character is to value their life at all times and act accordingly. For example, if your character is in a position where they are being threatened at gunpoint, they are likely to feel fear and act carefully. They're likely to go along with the aggressor's demands or attempt to earn favor or pity. Similarly, if your character is an aggressor, they're unlikely to threaten someone inside the victim's own base while the victim's allies are close by.
 
 
-### 1.6 Roleplay realistically. 
+### 1.6 Roleplay realistically
 
 - Observe actual limitations of your character and the world. An example of this would be taking five knife wounds to the stomach and walking it off like it is nothing. This is not possible for any normal human being.
 
 
-### 1.7 Trolling/Ragebaiting 
+### 1.7 No Trolling/Ragebaiting 
 
 - Troll behavior, such as griefing, deliberately causing issues, provoking reactions out of character or in character, are not allowed.
 
 
-### 1.8 Perverse themes.
+### 1.8 No Perverse themes
 
 - Gore Roleplay, Explicit Torture RP, Slavery RP, Racism/Homophobia, or any other forms of perverse roleplay, is not allowed on the server.
 
-***
+---------------------------------------------------------------------------------------------------------------------
 
 ![TheCrowCampground](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheCrowCampground.png)
 
@@ -165,7 +175,6 @@
 - You may take individual components (aside from the engine) from a vehicle, but do not leave a vehicle with more than three (3) necessary parts missing. 
   - Necessary parts include: driver's seat, gas tank, battery, tires, brakes, and suspension.
   - For example, you may take the battery and two tires. Alternatively, you may take the driver's seat, a suspension, and the gas tank.
-  - If the vehicle is already missing a necessary part, you may only take two necessary parts.
 - When training mechanics, do not ruin a vehicle's parts by attempting to remove them with low skill level.
   - At low levels, the battery, radio, head/tail lights, and tires can be removed with no chance of damage. 
   - You may make attempts to remove a part beyond your skill level, but do not do so excessively. 
@@ -202,8 +211,11 @@
 - Agility skills (sprint, sneak, nimble, lightfooted) are capped to an even lesser extent:
   0 = 9; 1 = 10 
 
+---------------------------------------------------------------------------------------------------------------------
 
-# THEFT & BASE THEFT RULES
+![ThreeArmedSurvivors](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/ThreeArmedSurvivors.png)
+
+# THEFT RULES
 
 ### 3.1 Offline raiding is strictly prohibited. 
 
@@ -228,16 +240,25 @@
 
 - You may only steal from a player or faction once in a 72 (real-life) hour period.
 
-### 3.6 Leave a clue
+### 3.6 Do not steal from a player while they are at an event.
+
+- Safehouse and vehicle claims are protected during events. 
+- If a player is at an event, they cannot be stolen from in any capacity.
+
+### 3.7 Leave a clue
 
 - When a player has stolen from another player, whether at their base, their vehicle, or elsewhere, they must leave a clue behind give the victim a lead on the culprit.
-- Clues are done in the form of a note and/or items.
-- Some examples of this could be "*A torn piece of leather with a biker patch was left at the scene of the crime. Some black hair dye could be seen splashed on the walls.*"
-- "*A torn piece of denim clothing has been left at the scene with red hair dye splattered over the clothing piece*."
+- This rule exists to ensure players roleplay criminal interactions. We are a story driven server, and thefts are expected to result in roleplay.
+- Clues may be done in the form of a written note and/or items.
+- Leave stronger clues for larger thefts.
+- Clue examples:
+  - *A torn piece of leather with a Legion MC biker patch is bunched up on the floor near the crates. Some black hair dye could be seen splashed on the walls.*
+  - *A lock of bright red hair has been left behind at the scene.*
+  - *Mud has been tracked into the room by large military boots. From the deep prints, it’s easy to tell the boots were in a tall men’s size.*
+  - *There’s a handprint in the dust on the left wall. The handprint is small and thin.*
+  - *Fresh blood lines the edge of the bucket. With the right equipment, you could identify the blood type as A-.*
 
-- This rule exists to make sure players roleplay any criminal interaction that has taken place. We are a story driven server, and thefts are expected to result in roleplay.
-
-### 3.5 Report your theft by opening a support ticket. 
+### 3.8 Report your theft by opening a support ticket. 
 
 - Open a support ticket and describe the theft. Include the following, using screenshots and/or text:
   - The list of items stolen 
@@ -250,202 +271,171 @@
 - Thefts must be reported within 1 hour of the action taking place. 
 - Reporting the theft is necessary even if the action is roleplayed out with the player present. The same time limit applies.
 
+---------------------------------------------------------------------------------------------------------------------
+
+![ChesterHarrisDeath](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/ChesterHarrisDeath.png)
 
 # PVP RULES
 
+To initiate PVP, players must follow a certain procedure. We are not a PVP based server, however we are open to it as long as it suits your character's narrative. For example, a pacifist would not go around with a shotgun threatening others to incite aggression. 
 
-## PVP GUIDELINES.
-To initiate PVP, players must follow a certain procedure. We are not a PVP based server, however we are not opposed to it as long as it suits your characters narative. For example, a pacifist would not go around with a shotgun trying to engage in PVP. You must play your character the way they are meant to be portrayed. 
+Keep in mind the [General Server Rules](#general-server-rules) when considering a PvP engagement.
+- No Metagaming
+- No Powergaming
+- No RP Evasion
+- No Random Aggression
+- Have a sense of self-preservation
+- Roleplay realistically
+- No Trolling/Ragebaiting
 
-To engage in PVP you must first roleplay a dialogue. This can be anything from throwing insults to a bartering deal gone wrong. The situation is entirely down to the players and how their character would react. 
+### 4.1 No KOS (Kill On Sight) under any circumstances.
 
-Following from this, if the situation is escalating to violence, then using /looc you must communicate whether or not you wish to engage in PVP. 
+- To engage in PVP, you must first roleplay a dialogue. This can be anything from throwing insults to a bartering deal gone wrong. The situation is down to the players and how their character would react. 
 
-If the answer is no from one of the members, then you must offer them a way out of the situation such as "drop your weapon and go." 
+### 4.2 All players involved must consent to PVP prior to the fight. 
 
-If the answer is yes from all of the members involved, then you must toggle PVP on to signal the fighting will commence. 
+- If a situation is escalating to violence, use /looc to request PvP consent. 
+- If you are asked for PvP consent, make your response clear by saying "I consent to PvP" or "I do not consent to PvP."
+- If PvP consent is declined, the requestor must offer a different way out of the situation, such as an ultimatum.
+  - For example: "Drop your weapon and go," or "Never come back here again."
+  - Refusal of PvP consent does not mean the refuser must acquiesce to all requests. Keep it reasonable.
+    - For example, this does not give you free reign to take a character hostage, exchange them with another, or threaten to kill the hostage unless demands are met. 
+- NPCs played by staff are also subject to the consent rule. 
+- In a PvP situation involving multiple players where not everyone consents, the non-consenting players must move away from the PvP area.
+- Do not attempt to join into the middle of a PvP scenario. Project Zomboid PvP is often quick and deadly.
 
+### 4.3 Toggling PvP on before PvP starts.
 
-Note:
+- In Project Zomboid, any character with PvP enabled on can hit or be hit by any other player, regardless of other players' PvP setting.
+- All players who consent to PvP must toggle PVP on. 
+  - EXCEPTION: Some situations call for only one side to enable PvP to avoid friendly fire.
+    - If a PvP scenario involves many players versus one, use /looc to decide that the 1 solo person will enable PvP.
+    - If a group of NPCs played by staff are involved, only the staff NPCs will enable PvP. This avoids players accidentally shooting each other.
 
-+ Only one person has to toggle PVP in a 1v1 situation, because no one should get caught in the crossfire or attempt to join in as Project Zomboid PVP can be very quick.
+### 4.4 Quid Pro Quo PvP
 
-+ If it’s a 2v1; or more etc: It is worth using /looc to decide that the 1 solo person will need to use PvP. This is what the Event Team does for NPCs to make sure players don’t accidentally shoot eachother 
+- If you attack a player in PVP (consent needed) or mug them (alternative to PVP if all parties do not agree), the victim (if they are alive) can engage in PVP with the aggressor without gaining consent for PVP. However the situation must be roleplayed out before combat starts. 
+- This does not advocate KOS.
+- The victim must warn the aggressor before PVP initiates
+- This happens over TWO separate interactions. 
 
-+ Remember to take in to account all of the listed rules below.
+### 4.5 Explosives are disallowed in PvP.
+
+- Explosives have a high chance of causing wide collateral damage, including non-consenting players. 
+- Explosives are too powerful and will not result in a fair fight.
+
+## TEXT BASED PVP
+
+Text based combat is allowed, provided the following rules are observed.
+
+### 4.5 Take turns.
+
+- Only 1 action per line of text. 
+- Actions cannot be chained in a single turn.
+- For example, you cannot have a script written and copy and paste actions in as quick as possible. This will be counted as powergaming.
+
+### 4.6 Decide beforehand whether the fight will be lethal.
+
+- If you intend to kill during this fight, this must be agreed upon OOC. 
+- In a non-lethal fight, the loser may sustain an injury depending on the outcome of the fight.
+
+### 4.7 Do not force an outcome. 
+
+- Forcing an outcome is an example of powergaming.
+- For example, "/me swings his bat, smashing Robert in the face, breaking his nose."
+  - Instead of this, the attacker may make an *attempt*. 
+  - Here's an acceptable alternative: "/me swings his bat at Robert's face, aiming for his nose."
 
 ---------------------------------------------------------------------------------------------------------------------
 
-
-## 4.1 No KOS under any circumstances.
-
-
-## 4.2 No power gaming against another player. 
-
-
-## 4.3 All players involved must consent to PVP prior to the fighting commencing. 
-
-- If PVP is not agreed on, then you must offer an out of the situation. E.G, mugging the player of a few items. This also extends to NPC's played by the event team.
-
-
-## 4.4 You are not allowed take a character hostage and exchange them with another, threatening to kill the hostage unless the demands are met. 
-
-- This is a form of power gaming, and again, is not tolerated.
-
-
-## 4.5 If you attack a player in PVP (consent needed) or mug them (alternative to PVP if all parties do not agree), the victim (if they are alive) can engage in PVP with the aggressor without gaining consent for PVP. However the situation must be roleplayed out before combat starts. 
-
-### 4.5.1 This does not advocate KOS.
-
-### 4.5.2 The victim must warn the aggressor before PVP initiates
-
-### 4.5.3 This happens over TWO separate interactions. 
-
----------------------------------------------------------------------------------------------------------------------
-
-# TEXT BASED PVP
-Text based combat is allowed providing it is followed by these rules:
-
-
-## 4.6 Only 1 action per line of text. 
-
-
-## 4.7 Each participant must take it in turns.
-
-- For example, you cannot have a script written and copy and paste it as quick as possible, this will be counted as power gaming.
-
-
-## 4.8 Actions cannot be chained in a line of dialouge.
-
-
-## 4.9 Actions must be roleplaying realistically. 
-
-- For example, somebody who has a thinly built frame would not succeed in an attempt to bodyslam a heavy individual.
-
-
-## 4.10 If you intend to kill during this fight, this must be agreed OOC. 
-
-- Otherwise it will be a fight and the loser will sustain an injury depending on the outcome of the fight.
-
-
-## 4.11 Players involved cannot force a player in to an outcome. 
-
-- For example, Player 1 cannot state "/me grabs Player 2 in a headlock, snapping their neck instantly rendering them dead."
-
+![MeritReevesFinalConfrontation](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/MeritReevesFinalConfrontation.png)
 
 # SAFEHOUSE CLAIMS
 
 
-## 5.1 Safehouses are claimable after 72 hours and are invalid after 2 weeks of inactivity unless an exception is made. To present your case please submit a support ticket..
+### 5.1 Players may claim a safehouse after surviving 72 in-game hours.
 
+### 5.2 Safehouses become invalid after 2 real-life weeks of inactivity.
 
-## 5.2 To claim a safehouse, you must place a piece of paper, journal or notepad at any entrance which is accessible to your building or claim the safehouse as standard. 
+- Exceptions may be made. If you will be away for an extended period, please submit a support ticket to present your case.
 
-- For example, a door or gate. The writing must include the safehouse owner's name(s). Please place each owner/user of the safehouse on the note. This is to prevent any offline raiding and also so we know who has access to your items when you are not online.
+### 5.3 Mark your safehouse with a piece of paper, journal, or notepad.
 
-### 5.2.1 A single container in a property cannot be claimed. Only the building and/or room is claimable.
+- To claim a safehouse, you must place a piece of paper, journal or notepad at each entrance which is accessible to your building.
+- You may also use the in-game safehouse system, but it is ancillary to these rules.
+- The claim note must include the safehouse owner's name(s). 
+  - Please place each owner/user of the safehouse on the note. This is to prevent any offline raiding and also so we know who has access to your items when you are not online.
 
-### 5.2.2 To claim an area, simply wall off the area by either a fence or wall and place a claim note by each entrance. Such as a gate or an empty space in the wall/fence.
+### 5.4 Only areas, buildings, rooms, and vehicles may be claimed.
 
-### 5.2.3 Vehicles are safe provided they are in the grounds of your safehouse. This can be inside a fenced/walled area or within a reasonable distance of your safehouse. Such as if you have a garage separate from your house, but still on the grounds of said safehouse. Vehicles are safe at the event locations providing you have a claim note inside the vehicle or/and outside somewhere visible.
+- A particular container in a property cannot be claimed. Claimed containers will not be subject to theft rules.
+- To claim an area, wall off the area by either a fence or wall and place a claim note by each entrance (such as a gate or an empty space in the wall/fence).
 
+### 5.3 Do not claim an unreasonably large area.
 
-## 5.3 A single player cannot claim an apartment block. However they can claim a cell within it. A group of 3 or more can claim a full apartment block as their safehouse.
-
+- A single player may not claim an apartment block. However, they can claim a cell within it. 
+- A group of 3 or more can claim a full apartment block as their safehouse.
 
 ## 5.4 Nomadic players can claim their vehicle and/or trailer as their safehouse.
 
 - If you wish to do this, simply leave a claim note outside of the vehicle where it will be visible. This acts as a player safehouse. If you leave your trailer behind, this will act as your safehouse if you have a claim note visible.
 
-### 5.4.1 You cannot steal a nomadic players vehicle as this is their safehouse.
+---------------------------------------------------------------------------------------------------------------------
 
-
-## 5.5 Safehouse claims are valid during events. 
-
-- I.E if the player is at the event, they cannot be stolen from in any capacity.
-
+![BriefingInCommonRoom](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/BriefingInCommonRoom.png)
 
 # FACTION RULES
 
+### 6.1 To create a faction, open a support ticket to register it.
 
-## 6.1 Whilst in a faction all of the regular roleplaying rules still apply.
-
- 
-## 6.2 To create a faction, simply open a support ticket letting us know.
-
-- We will want a few details first. Such as your character, the faction name and the people you have in it. We may further ask you a couple more questions such as if they have a backstory (for example, a police unit, military unit or a family) and any faction goals.
-
-### 6.2.1 If a new member joins your faction, simply open a support ticket letting us know you wish to add the player to your discord faction channel. This is for our records as well as yours.
-
-
-## 6.3 To prevent any one faction hoarding vehicles, we are enforcing that a faction would have no more than ONE vehicle per member and then ONE faction claimable vehicle. 
-
-- No matter the size of the faction this rule is enforced. This ruling means, for example, you may have 4 members in a faction, then you can have up to 5 vehicles. 
-
-
-## 6.4 We ask that you have a minimum of 3 players and a maximum of 8 players before you submit a ticket for your faction.
-
+- Please provide the following details:
+  - The faction name
+  - The faction tag
+  - A list of the members in the faction
+- We may further ask you a couple more questions such as if they have a backstory (for example, a police unit, military unit or a family) and any faction goals.
+- Registered factions must have a minimum of 3 players and a maximum of 8 players.
 - You do not have to be living in the same base to submit a faction request, only that you agree to form a faction. 
+- When a faction is registered, they obtain a Discord channel which functions as a private radio channel that only the faction members know of.
 
+### 6.2 Notify staff of new members.
 
-## 6.5 If your faction has disbanded, please let an admin know in your faction chat or use a :clipboard:support-ticket. 
+- If a new member joins your faction, open a support ticket letting us know you wish to add the player to your discord faction channel. This is for our records as well as yours.
 
+### 6.3 Factions may claim no more than ONE vehicle per member plus ONE faction vehicle
+
+- To prevent any a faction from hoarding vehicles, we are enforcing this vehicle limit.
+- No matter the size of the faction, this rule is enforced. This ruling means, for example, if you have 4 members in a faction, then you can have up to 5 vehicles. 
+
+### 6.4 Notify staff when your faction has disbanded.
+
+- If your faction has disbanded, please let an admin know in your faction Discord channel or use a :clipboard:support-ticket. 
 - This is so we can keep tabs on which faction is around and if their land/structures are a valid claim. 
 
+### 6.5 Faction wars are allowed, provided all PvP rules are followed.
 
-## 6.6 Base raiding another faction is allowed providing the following conditions are met:
+### 6.6 Base raiding another faction is allowed.
 
-### 6.6.1 If you are raiding a rival faction base, you cannot break down any of the barricades/doors unless you are in a PVP scenario. Then you are allowed to break down or remove player made barricades/doors. 
+- If you are raiding a rival faction base, normal theft rules apply. You cannot break down any of the barricades/doors. 
+- In a faction v faction PVP scenario, you are allowed to break down or remove player made barricades/doors. 
+- Each player is limited to 30 lbs of weight. You can now use up to 5 players for a faction V faction base raid. 
+- Offline raiding is still prohibited. At least 1 member of a faction must be online to commence the base raid. 
 
-### 6.6.2 Each player is limited to 30 lbs of weight. You can now use up to 5 players for a faction V faction base raid. If this is on a single player, then standard roleplaying rules apply, see: rule 10 under Roleplaying rules.
-
-### 6.6.3 Offline raiding is still prohibited. At least 1 member of a faction must be online to commence the base raid. 
-
-### 6.6.4 Vehicles are classed as items. You cannot take them if no member of the faction is online. 
-
-
-## 6.7 Faction wars are allowed if the following rules are met:
-
-### 6.7.1 No KOS.
-
-### 6.7.2 All combat must be roleplayed before initiating, you cannot open fire on another player in a rival faction. You must engage with them first verbally, offering them a way out of the situation which does not result in violence.
-
-
-## 6.8 You may only have ONE faction safehouse claim or ONE personal safehouse claim if you are in a faction. 
+### 6.7 You may only have ONE faction safehouse claim or ONE personal safehouse claim if you are in a faction. 
 
 - You may have a personal claim within a faction base depending on how your faction is set out. For example, if your faction is based out of an apartment block, you may claim a room in that block. This prevents anybody outside of the faction raiding your room, if you are offline.
 
-### 6.8.1 This cannot be used to store all of your factions items.  
-
-### 6.7.2 All combat must be roleplayed before initiating, you cannot open fire on another player in a rival faction. You must engage with them first verbally, offering them a way out of the situation which does not result in violence.
-
+---------------------------------------------------------------------------------------------------------------------
 
 # EVENT RULES
 
+![BanquetTable](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/BanquetTable.png)
 
-## 7.1 NPC characters will NOT engage first in combat without prior OOC consent with the player.
+### 7.1 NPC characters will NOT engage first in combat without prior OOC consent with the player.
 
-- [Rule 4.3](README.md#43-all-players-involved-must-consent-to-pvp-prior-to-the-fighting-commencing) applies.
+- Regular PvP consent rules apply.
+- Any injuries that may be caused directly to the player by the event staff will be discussed prior to them being inflicted.
+- Players will have the choice to decline having their characters injured directly by an event team member. However injuries caused indirectly (E.G a zombie spawning and scratching the player character) will not be held responsible by the event staff.
 
+### 7.2 If PvP occurs, only staff NPCs will have PVP enabled. 
 
-## 7.2 Safehouse claims are valid during events. 
-
-- I.E if the player is at the event, they cannot be stolen from in any capacity.
-
-
-## 7.3 Any injuries that may be caused directly to the player by the event staff, will be discussed prior to them being inflicted.
-
-- Rule [Rule 4.3](README.md#43-all-players-involved-must-consent-to-pvp-prior-to-the-fighting-commencing) applies. Players will have the choice to decline having their characters injured directly by an event team member. However injuries caused indirectly (E.G a zombie spawning and scratching the player character) will not be held responsible by the event staff and does not warrant OOC consent.
-
-
-## 7.4 Event staff NPC’s will have PVP enabled at all times. 
-
-- [Rule 4.3](README.md#43-all-players-involved-must-consent-to-pvp-prior-to-the-fighting-commencing) & [7.1](README.md#71-npc-characters-will-not-engage-first-in-combat-without-prior-ooc-consent-with-the-player) applies. This is so if the player decides to engage in PVP they may do so without injuring other players in their immediate area.
-
-### 7.4.1 No KOS from either event staff or players.
-
-### 7.4.2 Explosives may damage yourself, the NPC in question and any group you may have been accompanied by.
-
-### 7.4.3 If the players decide PVP against the NPC during an RP interaction, rule [7.3](README.md#73-any-injuries-that-may-be-caused-directly-to-the-player-by-the-event-staff-will-be-discussed-prior-to-them-being-inflicted) is void from the event staff.
-
-### 7.4.4 Staff will have PVP turned off if it is for ambient noises. I.E a distant gunshot. If the interaction is not intended to injure the player.
+- This rule is in place so that players may engage in PvP without injuring other players in their immediate area.
