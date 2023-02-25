@@ -40,10 +40,13 @@
 - Powergaming is forcing the outcome of events in a way that excludes/inhibits storytelling and atmosphere. It could be described as "playing to win" rather than honoring creative roleplay.
 - Never remove another character's ability to move, speak, or otherwise have a chance to interact.
 - Powergaming includes but is not limited to:
+  - Declaring the outcome of an action involving another player
+    - I.E. "/me reaches for Claude's machete and snatches it from her hand."
   - Complete fearlessness for your character's safety
   - Having excessive knowledge
-  - Being skilled at too many things
-
+  - Being excessively skilled or having skills in an excessive variety of areas
+  - Overwhelming a player with too many consecutive actions.
+    - You must give players reasonable time to respond to your actions.
 
 ### 1.3 No RP Evasion
 
@@ -52,14 +55,19 @@
 
 ### 1.4 No Random Aggression
 
-- You cannot attempt to kill/rob someone without quality roleplay. This roleplay should include initiating conflict by either the aggressor or defender and both players agreeing to participate. An example of random aggression would be shooting at a random people you see, or walking up to someone and using one line sentences such as, but not limited to, “Your valuables or your life”
-
-  Indiscriminantly running people over with vehicles, randomly causing fires, or using a 3-2-1 countdown and then attacking them fall under rule 4 as well. You must give people reasonable time to comply/respond. 
+- You cannot attempt to kill/rob someone without quality roleplay. This roleplay should include initiating conflict by either the aggressor or defender and both players agreeing to participate. 
+- Examples: 
+  - Shooting at a random people you see
+  - Walking up to someone and using one line sentences such as “Your valuables or your life”
+  - Indiscriminantly running people over with vehicles
+  - Randomly causing fires
+  - Using a 3-2-1 countdown and then attacking
 
 
 ### 1.5 Have a sense of self-preservation.
 
-- Your character is to value their life at all times and act accordingly. For example, if your character is in a position where they are being threatened at gunpoint, they are likely to feel fear and act carefully. They're likely to go along with the aggressor's demands or attempt to earn favor or pity. Similarly, if your character is an aggressor, they're unlikely to threaten someone inside the victim's own base while the victim's allies are close by.
+- Your character is to value their life at all times and act accordingly. 
+- For example, if your character is in a position where they are being threatened at gunpoint, they are likely to feel fear and act carefully. They're likely to go along with the aggressor's demands or attempt to earn favor or pity. Similarly, if your character is an aggressor, they're unlikely to threaten someone inside the victim's own base while the victim's allies are close by.
 
 
 ### 1.6 Roleplay realistically
