@@ -107,7 +107,8 @@
 ### 2.2 Roleplay a character of your own design.
 
 - You may not roleplay or reference being a real person or character from any media, from modern day or from history.
-- You may take inspiration from media, modern day or history but you cannot play as them. For example, you could take inspiration from “Rick Grimes” from The Walking Dead (for example, by making a cop character who was separated from his family and seeks to find them), but you cannot play a character called "Nick Graves" who is fundamentally the same as Rick Grimes.
+  - You may take inspiration from media, modern day or history but you cannot play as them. For example, you could take inspiration from “Rick Grimes” from The Walking Dead (for example, by making a cop character who was separated from his family and seeks to find them), but you cannot play a character called "Nick Graves" who is fundamentally the same as Rick Grimes.
+- You may not use AI writing for any part of your character's story.
 
 
 ### 2.3 Use the proper channels for in-character communication.
