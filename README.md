@@ -286,12 +286,13 @@
 - Thefts must be reported within 1 hour of the action taking place. 
 - Reporting the theft is necessary even if the action is roleplayed out with the player present. The same time limit applies.
 
-- Example theft ticket details:
-*Yvonne heard Davot talk about an armory at the police station over the radio, and decided to rob them.*
+#### Example theft ticket:
+
+> *Yvonne heard Davot talk about an armory at the police station over the radio, and decided to rob them.*
 
 ![TheftExample-Clue](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-Clue.png)
 
-*Yvonne made multiple emotes while sneaking around, giving nearby characters a chance to notice her.*
+> *Yvonne made multiple emotes while sneaking around, giving nearby characters a chance to notice her.*
 
 ![TheftExample-Emote1](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-Emote1.png)
 
@@ -299,13 +300,13 @@
 
 ![TheftExample-Emote3](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-Emote3.png)
 
-*Yvonne stole these items, including the Army Duffle Bag.*
+> *Yvonne stole these items, including the Army Duffle Bag.*
 
 ![TheftExample-ItemsStolen1](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-ItemsStolen1.png)
 
 ![TheftExample-ItemsStolen2](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-ItemsStolen2.png)
 
-*Snips (Yvonne's player) included a screenshot of the online players.*
+> *Snips (Yvonne's player) included a screenshot of the online players.*
 
 ![TheftExample-OnlinePlayers](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-OnlinePlayers.png)
 
