@@ -306,7 +306,7 @@
 
 ![TheftExample-ItemsStolen2](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-ItemsStolen2.png)
 
-> Snips (Yvonne's player) included a screenshot of the online players.
+> Yvonne's player included a screenshot of the online players.
 
 ![TheftExample-OnlinePlayers](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-OnlinePlayers.png)
 
