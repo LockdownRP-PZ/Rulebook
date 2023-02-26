@@ -5,15 +5,13 @@
 # Disclosure:
 
 
-- *This server is for players 18 and older due to the nature of the content. If you are younger than 18, then we cannot accept you on this server. By applying to play here with us, you confirm that you are at least 18 years of age and agree to the terms of use as detailed in this document.*
+- *This server is for players 18 and older. Due to the nature of the content, all players MUST be aged 18 or over to play on the server. If you are younger than 18, then we cannot accept you on this server. By applying to play here with us, you confirm that you are at least 18 years of age and agree to the terms of use as detailed in this document.* 
 
 - *The themes of this server’s story and Project Zomboid as a game include: Alcohol, Violence, Blood and Gore, Drug References, and Strong Language.*
 
 - *This is an online community and we will do our absolute best to make sure people feel safe and welcome in our community. However, we are not therapists, teachers, or any of the like. We are not accountable for the interactions you experience online. This goes for everyone. If you are being harassed, bullied, or in general do not feel safe because of something or someone in the community, please do not hesitate to reach out to us. You are precious to us and we will do our best to prevent or mitigate harm that may come to you.*
 
 - *We aim to give all players a welcoming, friendly experience, which we believe our rules reflect. If you are unsure of any rules, please don't hesitate to ask in the :speech_balloon:support section.*
-
-- *As of 05/05/2022 all players MUST be aged 18 or over to play on the server. This also extends to player characters. Members who have been verified before this date will be allowed to stay. This goes for new character applications from previously verified members.*
 
 
 # Obligations:
@@ -44,8 +42,8 @@
     - I.E. "/me reaches for Claude's machete and snatches it from her hand."
   - Complete fearlessness for your character's safety
   - Having excessive knowledge
-  - Being excessively skilled or having skills in an excessive variety of areas
-  - Overwhelming a player with too many consecutive actions.
+  - Focusing on grinding skills to the detriment of RP
+  - Overwhelming a player with too many consecutive actions
     - You must give players reasonable time to respond to your actions.
 
 ### 1.3 No RP Evasion
@@ -70,14 +68,19 @@
 
 ### 1.5 Have a sense of self-preservation.
 
-- Your character is to value their life at all times and act accordingly. 
+- Your character must value their life at all times and act accordingly. 
 - For example, if your character is in a position where they are being threatened at gunpoint, they are likely to feel fear and act carefully. They're likely to go along with the aggressor's demands or attempt to earn favor or pity. Similarly, if your character is an aggressor, they're unlikely to threaten someone inside the victim's own base while the victim's allies are close by.
 
 
 ### 1.6 Roleplay realistically
 
 - Observe realistic limitations of your character and the world. 
-- An example of violating this rule would be taking five knife wounds to the stomach and walking it off like it is nothing. This is not possible for any normal human being.
+- Your character is a realistic human who must obey the laws of physics and nature.
+- Examples of violating this rule:
+  - Taking five knife wounds to the stomach and walking it off like it is nothing.
+  - Hearing movement from behind a wall and instantly knowing that someone is there.
+  - Bending a sturdy metal pipe with one's bare hands.
+  - Eating five raw bags of rice in the span of an hour.
 
 
 ### 1.7 No Trolling/Ragebaiting 
@@ -104,13 +107,16 @@
 ### 2.2 Roleplay a character of your own design.
 
 - You may not roleplay or reference being a real person or character from any media, from modern day or from history.
-- You may take inspiration from media, modern day or history but you cannot play as them. For example, you could take inspiration from “Rick Grimes” from The Walking Dead (for example, by making a cop character who was separated from his family and seeks to find them), but you cannot play a character called "Dick Crimes" who is fundamentally the same as Rick Grimes.
+- You may take inspiration from media, modern day or history but you cannot play as them. For example, you could take inspiration from “Rick Grimes” from The Walking Dead (for example, by making a cop character who was separated from his family and seeks to find them), but you cannot play a character called "Nick Graves" who is fundamentally the same as Rick Grimes.
 
 
 ### 2.3 Use the proper channels for in-character communication.
 
-- Discord (private or sever) messages do not count as private walkie-talkie channels, unless stated otherwise. 
+- Discord (private or sever) messages do not count as private walkie-talkie channels unless stated otherwise. 
 - We have a public discord channel for in-character public radio broadcasts. You can use it to find other characters or converse with them. There are also faction channels which registered factions can use for in-character communication on a faction-member-only radio frequency. 
+- Use in-game radios to communicate with other characters across distances. 
+  - Speak to other characters and decide on a radio frequency to use.
+  - We have a mod that allows your radio to continue receiving and transmitting while inside containers or attached to your belt. Take advantage of that.
 
 
 ### 2.4 Do not abuse game mechanics.
@@ -135,7 +141,6 @@
 - If you die during this time, you do not need to submit a new character. 
 - It is up to you to get your skills and items back; we will not restore them. 
 - We offer 1 revive and 3 heals during this grace period.
-- Moderators will not heal any wounds caused by trait selection. I.E injured or burnward patient.
 
 #### 2.6.2 Reclaiming items from a previous character
 
@@ -161,8 +166,9 @@
 
 ### 2.8 Romantic relationships are allowed, within reason.
 
-- Marriages, boyfriend/girlfriend scenarios, dating, cohabiting, etc are all acceptable forms of roleplay. 
-- However ERP must NOT take place on the server. We have a zero tolerance policy on this. 
+- Marriages, courting, dating, cohabiting, etc are all acceptable forms of roleplay. 
+- Gender is no barrior to romantic relationships. Same-sex relationships are acceptable.
+- ERP (erotic roleplay) must NOT take place on the server. We have a zero tolerance policy on this. 
 - Any player who is uncomfortable with a character's advances or feels another player is being inappropriate may come forward. We encourage you to submit a ticket with screenshots of the conversation. It will be handled discreetly and professionally. 
 
 
@@ -186,6 +192,7 @@
   - At low levels, the battery, radio, head/tail lights, and tires can be removed with no chance of damage. 
   - You may make attempts to remove a part beyond your skill level, but do not do so excessively. 
 - Violations of this rule are identified as a form of griefing and will be punished with a 24 hour ban.
+- Feel free to open a support ticket and ask questions if you're in doubt.
 
 
 ### 2.11 World knowledge.
@@ -237,7 +244,8 @@
 
 ### 3.3 Do not steal an overwhelming amount.
 
-- You may only steal 30 units of encumbrance total per theif, up to a maximum of three thieves. 
+- You may only steal up to 30 weight units per theft and per thief. 
+- Up to three affiliated thieves (each controlled by a different player) may steal items during the same theft.
 
 ### 3.4 Do not steal vehicles.
 
@@ -278,6 +286,22 @@
 - Thefts must be reported within 1 hour of the action taking place. 
 - Reporting the theft is necessary even if the action is roleplayed out with the player present. The same time limit applies.
 
+- Example theft ticket details:
+*Yvonne heard Davot talk about an armory at the police station over the radio, and decided to rob them.*
+![TheftExample-Clue](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-Clue.png)
+
+*Yvonne made multiple emotes while sneaking around, giving nearby characters a chance to notice her.*
+![TheftExample-Emote1](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-Emote1.png)
+![TheftExample-Emote2](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-Emote2.png)
+![TheftExample-Emote3](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-Emote3.png)
+
+*Yvonne stole these items, including the Army Duffle Bag.*
+![TheftExample-ItemsStolen1](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-ItemsStolen1.png)
+![TheftExample-ItemsStolen2](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-ItemsStolen2.png)
+
+*Snips (Yvonne's player) included a screenshot of the online players.*
+![TheftExample-OnlinePlayers](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-OnlinePlayers.png)
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ![ChesterHarrisDeath](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/ChesterHarrisDeath.png)
@@ -302,7 +326,7 @@ Keep in mind the [General Server Rules](#general-server-rules) when considering 
 ### 4.2 All players involved must consent to PVP prior to the fight. 
 
 - If a situation is escalating to violence, use /looc to request PvP consent. 
-- If you are asked for PvP consent, make your response clear by saying "I consent to PvP" or "I do not consent to PvP."
+- If you are asked for PvP consent, make your response clear using /looc by saying "I consent to PvP" or "I do not consent to PvP."
 - If PvP consent is declined, the requestor must offer a different way out of the situation, such as an ultimatum.
   - For example: "Drop your weapon and go," or "Never come back here again."
   - Refusal of PvP consent does not mean the refuser must acquiesce to all requests. Keep it reasonable.
@@ -380,7 +404,7 @@ Text based combat is allowed, provided the following rules are observed.
 
 ### 5.5 Do not claim an unreasonably large area.
 
-- A single player may not claim an apartment block. However, they can claim a cell within it. 
+- A single player may not claim an apartment block. However, they can claim a room within it. 
 - A group of 3 or more can claim a full apartment block as their safehouse.
 
 ### 5.6 Players may claim one hauling vehicle, one mobility vehicle, and one seaworthy vehicle.
@@ -392,13 +416,13 @@ Text based combat is allowed, provided the following rules are observed.
 - Players may claim one (1) trailer in addition to their vehicles.
 - To claim a vehicle, place a note in its glove box, in its trunk, and/or on the ground nearby.
 
-### 5.7 Players can claim a nomad vehicle in lieu of a safehouse.
+### 5.7 Players can claim a mobile safehouse in lieu of a building/room/area.
 
-- Thanks to the Vehicle Interiors mod, some vehicles have interiors that can be entered and lived in. These are known as nomad vehicles. Claiming one counts as claiming a safehouse.
-  - By claiming a nomad vehicle, you forfeit your ability to claim a building/room/area.
-  - You may only own *one* nomad vehicle. This means that if you have an RV, you may not also own a yacht.
-- Your nomad vehicle counts as one of your three vehicles. A bus, for example, counts as your hauling vehicle.
-- Claiming a safehouse vehicle is done the same as claiming a regular vehicle.
+- Thanks to the Vehicle Interiors mod, some vehicles have interiors that can be entered and lived in. These are known as mobile safehouses. Claiming one counts as claiming a safehouse.
+  - By claiming a mobile safehouse, you forfeit your ability to claim a building/room/area.
+  - You may only own *one* mobile safehouse. This means that if you have an RV, you may not also claim a yacht.
+- Your mobile safehouse counts as one of your three vehicles. A bus, for example, counts as your hauling vehicle.
+- Claiming a mobile safehouse is done the same as claiming a regular vehicle.
 
 
 ---------------------------------------------------------------------------------------------------------------------
