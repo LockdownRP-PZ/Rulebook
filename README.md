@@ -352,14 +352,7 @@ Keep in mind the [General Server Rules](#general-server-rules) when considering 
     - If a PvP scenario involves many players versus one, use /looc to decide that the 1 solo person will enable PvP.
     - If a group of NPCs played by staff are involved, only the staff NPCs will enable PvP. This avoids players accidentally shooting each other.
 
-### 4.4 Quid Pro Quo PvP
-
-- If you attack a player in PVP (consent needed) or mug them (alternative to PVP if all parties do not agree), the victim (if they are alive) can engage in PVP with the aggressor without gaining consent for PVP. 
-- This does not advocate KOS. The situation must still be roleplayed out before combat starts. 
-- The victim must warn the aggressor before PVP initiates
-- This happens over TWO separate interactions. 
-
-### 4.5 Explosives are disallowed in PvP.
+### 4.4 Explosives are disallowed in PvP.
 
 - Explosives have a high chance of causing wide collateral damage, including non-consenting players. 
 - Explosives are too powerful and will not result in a fair fight.
