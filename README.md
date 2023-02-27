@@ -414,7 +414,7 @@ Text based combat is allowed, provided the following rules are observed.
 - Players may own a maximum of three (3) vehicles - one of each category.
   - Hauling vehicle (truck, standard car, sports car)
   - Mobility vehicle (motorcycle, scooter, ATV)
-  - Seaworthy vehicle (yacht, speed boat, jet ski)
+  - Seaworthy vehicle (jet ski)
 - Players may claim one (1) trailer in addition to their vehicles.
 - To claim a vehicle, place a note in its glove box, in its trunk, and/or on the ground nearby.
 
@@ -422,7 +422,7 @@ Text based combat is allowed, provided the following rules are observed.
 
 - Thanks to the Vehicle Interiors mod, some vehicles have interiors that can be entered and lived in. These are known as mobile safehouses. Claiming one counts as claiming a safehouse.
   - By claiming a mobile safehouse, you forfeit your ability to claim a building/room/area.
-  - You may only own *one* mobile safehouse. This means that if you have an RV, you may not also claim a yacht.
+  - You may only own *one* mobile safehouse. This means that if you claim an RV, you may not also claim a yacht.
 - Your mobile safehouse counts as one of your three vehicles. A bus, for example, counts as your hauling vehicle.
 - Claiming a mobile safehouse is done the same as claiming a regular vehicle.
 
