@@ -199,7 +199,7 @@
 ### 2.11 World knowledge.
 
 - If your character is a local, they may have some prior information on the world, such as factions, antagonists, and major events. 
-- This does not invalidate [rule 1.1](README.md#11-no-metagaming).
+- This does not invalidate [rule 1.1 - No Metagaming](README.md#11-no-metagaming).
 - This does not allow you to know the location of your previous characters loot after their death. This is classed as Meta-gaming and will be dealt with as such. 
 - This does not allow you to know precise locations of bases. Your character may know the general area but not the exact location. I.E: Bob may know “The Outcasts” are based in Verdict Heights, but not the exact building. You must discover this through Organic Roleplaying. 
 - Players are not allowed to use the :zombie:lost-to-the-hordes (LTTH) channel as in-game information.
@@ -214,7 +214,7 @@
   - If you choose the ADHD trait, roleplay the effects of ADHD on your character.
 - You're not required to roleplay every trait you choose or to only choose traits that are part of your backstory. Keep your character in mind and choose traits that make sense.
 - If you are caught with an excessive amount of traits you are not roleplaying, you will have your traits rebalanced by the moderator team and will be issued a warning.
-- Creating an optimized build without regard to your written character is a breach of rule [1.2](README.md#12-no-metagaming).
+- Creating an optimized build without regard to your written character is a breach of rule [1.1 - No Metagaming](README.md#11-no-metagaming).
 
 ### 2.13 Skill limiter.
 
@@ -352,14 +352,7 @@ Keep in mind the [General Server Rules](#general-server-rules) when considering 
     - If a PvP scenario involves many players versus one, use /looc to decide that the 1 solo person will enable PvP.
     - If a group of NPCs played by staff are involved, only the staff NPCs will enable PvP. This avoids players accidentally shooting each other.
 
-### 4.4 Quid Pro Quo PvP
-
-- If you attack a player in PVP (consent needed) or mug them (alternative to PVP if all parties do not agree), the victim (if they are alive) can engage in PVP with the aggressor without gaining consent for PVP. 
-- This does not advocate KOS. The situation must still be roleplayed out before combat starts. 
-- The victim must warn the aggressor before PVP initiates
-- This happens over TWO separate interactions. 
-
-### 4.5 Explosives are disallowed in PvP.
+### 4.4 Explosives are disallowed in PvP.
 
 - Explosives have a high chance of causing wide collateral damage, including non-consenting players. 
 - Explosives are too powerful and will not result in a fair fight.
@@ -421,7 +414,7 @@ Text based combat is allowed, provided the following rules are observed.
 - Players may own a maximum of three (3) vehicles - one of each category.
   - Hauling vehicle (truck, standard car, sports car)
   - Mobility vehicle (motorcycle, scooter, ATV)
-  - Seaworthy vehicle (yacht, speed boat, jet ski)
+  - Seaworthy vehicle (jet ski)
 - Players may claim one (1) trailer in addition to their vehicles.
 - To claim a vehicle, place a note in its glove box, in its trunk, and/or on the ground nearby.
 
@@ -429,7 +422,7 @@ Text based combat is allowed, provided the following rules are observed.
 
 - Thanks to the Vehicle Interiors mod, some vehicles have interiors that can be entered and lived in. These are known as mobile safehouses. Claiming one counts as claiming a safehouse.
   - By claiming a mobile safehouse, you forfeit your ability to claim a building/room/area.
-  - You may only own *one* mobile safehouse. This means that if you have an RV, you may not also claim a yacht.
+  - You may only own *one* mobile safehouse. This means that if you claim an RV, you may not also claim a yacht.
 - Your mobile safehouse counts as one of your three vehicles. A bus, for example, counts as your hauling vehicle.
 - Claiming a mobile safehouse is done the same as claiming a regular vehicle.
 
