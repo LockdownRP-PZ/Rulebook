@@ -199,7 +199,7 @@
 ### 2.11 World knowledge.
 
 - If your character is a local, they may have some prior information on the world, such as factions, antagonists, and major events. 
-- This does not invalidate [rule 1.1](README.md#11-no-metagaming).
+- This does not invalidate [rule 1.1 - No Metagaming](README.md#11-no-metagaming).
 - This does not allow you to know the location of your previous characters loot after their death. This is classed as Meta-gaming and will be dealt with as such. 
 - This does not allow you to know precise locations of bases. Your character may know the general area but not the exact location. I.E: Bob may know “The Outcasts” are based in Verdict Heights, but not the exact building. You must discover this through Organic Roleplaying. 
 - Players are not allowed to use the :zombie:lost-to-the-hordes (LTTH) channel as in-game information.
@@ -214,7 +214,7 @@
   - If you choose the ADHD trait, roleplay the effects of ADHD on your character.
 - You're not required to roleplay every trait you choose or to only choose traits that are part of your backstory. Keep your character in mind and choose traits that make sense.
 - If you are caught with an excessive amount of traits you are not roleplaying, you will have your traits rebalanced by the moderator team and will be issued a warning.
-- Creating an optimized build without regard to your written character is a breach of rule [1.2](README.md#12-no-metagaming).
+- Creating an optimized build without regard to your written character is a breach of rule [1.1 - No Metagaming](README.md#11-no-metagaming).
 
 ### 2.13 Skill limiter.
 
