@@ -419,10 +419,9 @@ Text based combat is allowed, provided the following rules are observed.
 
 ### 5.7 Players can claim a mobile safehouse in lieu of a building/room/area.
 
-- Thanks to the Vehicle Interiors mod, some vehicles have interiors that can be entered and lived in. These are known as mobile safehouses. Claiming one counts as claiming a safehouse.
+- Thanks to the Vehicle Interiors mod, some vehicles (such as RVs and buses) have interiors that can be entered and lived in. These are known as mobile safehouses. Claiming one counts as claiming a safehouse.
   - By claiming a mobile safehouse, you forfeit your ability to claim a building/room/area.
-  - You may only own *one* mobile safehouse. This means that if you claim an RV, you may not also claim a yacht.
-- Your mobile safehouse counts as one of your three vehicles. A bus, for example, counts as your hauling vehicle.
+- Your mobile safehouse counts as your hauling vehicle. You may not claim, for example, both a bus and a jeep.
 - Claiming a mobile safehouse is done the same as claiming a regular vehicle.
 
 
