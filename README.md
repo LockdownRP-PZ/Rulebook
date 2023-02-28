@@ -409,12 +409,11 @@ Text based combat is allowed, provided the following rules are observed.
 - A single player may not claim an apartment block. However, they can claim a room within it. 
 - A group of 3 or more can claim a full apartment block as their safehouse.
 
-### 5.6 Players may claim one hauling vehicle, one mobility vehicle, and one seaworthy vehicle.
+### 5.6 Players may claim one hauling vehicle and one mobility vehicle.
 
-- Players may own a maximum of three (3) vehicles - one of each category.
+- Players may own a maximum of two (2) vehicles - one of each category.
   - Hauling vehicle (truck, standard car, sports car)
   - Mobility vehicle (motorcycle, scooter, ATV)
-  - Seaworthy vehicle (jet ski)
 - Players may claim one (1) trailer in addition to their vehicles.
 - To claim a vehicle, place a note in its glove box, in its trunk, and/or on the ground nearby.
 
