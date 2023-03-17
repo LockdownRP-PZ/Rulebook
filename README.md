@@ -417,11 +417,13 @@ Text based combat is allowed, provided the following rules are observed.
 - A single player may not claim an apartment block. However, they can claim a room within it. 
 - A group of 3 or more can claim a full apartment block as their safehouse.
 
-### 5.6 Players may claim one hauling vehicle and one mobility vehicle.
+### 5.6 Players may claim two vehicles, each of a different type.
 
-- Players may own a maximum of two (2) vehicles - one of each category.
-  - Hauling vehicle (truck, standard car, sports car)
-  - Mobility vehicle (motorcycle, scooter, ATV)
+- Players may own a maximum of two (2) vehicles. Each vehicle must be of a different type.
+  - Sport (muscle cars, motorcycles, ATVs, etc.)
+  - Standard (station wagons, taxis, jeeps, etc.)
+  - Heavy-Duty (trucks, buses, vans, etc.)
+- This means you could own, for example, a semi truck and a police cruiser. 
 - Players may claim one (1) trailer in addition to their vehicles.
 - To claim a vehicle, place a note in its glove box, in its trunk, and/or on the ground nearby.
 
@@ -429,7 +431,7 @@ Text based combat is allowed, provided the following rules are observed.
 
 - Thanks to the Vehicle Interiors mod, some vehicles (such as RVs and buses) have interiors that can be entered and lived in. These are known as mobile safehouses. Claiming one counts as claiming a safehouse.
   - By claiming a mobile safehouse, you forfeit your ability to claim a building/room/area.
-- Your mobile safehouse counts as your hauling vehicle. You may not claim, for example, both a bus and a jeep.
+- Your mobile safehouse counts as one of your vehicles. You may not claim, for example, both a bus and a truck.
 - Claiming a mobile safehouse is done the same as claiming a regular vehicle.
 
 
