@@ -45,6 +45,9 @@
   - Focusing on grinding skills to the detriment of RP
   - Overwhelming a player with too many consecutive actions
     - You must give players reasonable time to respond to your actions.
+  - Choosing powerful starting equipment
+    - The Fashionista mod enables the selection of myriad equipment at character creation, some of which is unreasonable for a brand new character.
+    - For example: metal armor or an exo suit
 
 ### 1.3 No RP Evasion
 
