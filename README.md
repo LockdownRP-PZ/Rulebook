@@ -111,7 +111,14 @@
 - You may not use AI writing for any part of your character's story.
 
 
-### 2.3 Use the proper channels for in-character communication.
+### 2.3 You may have only one active character at a time.
+
+- Players are limited to one active player character at a time.
+- If your character dies or retires, you can apply for a new character.
+- You may not bring back a retired character.
+
+
+### 2.4 Use the proper channels for in-character communication.
 
 - Discord (private or sever) messages do not count as private walkie-talkie channels unless stated otherwise. 
 - We have a public discord channel for in-character public radio broadcasts. You can use it to find other characters or converse with them. There are also faction channels which registered factions can use for in-character communication on a faction-member-only radio frequency. 
@@ -120,7 +127,7 @@
   - We have a mod that allows your radio to continue receiving and transmitting while inside containers or attached to your belt. Take advantage of that.
 
 
-### 2.4 Do not abuse game mechanics.
+### 2.5 Do not abuse game mechanics.
 
 - You must not use exploits or circumvent normal game mechanics to do things your character would not normally be able to do. 
 - Bug abuse, hacks, and other forms of game exploitation are disallowed. 
@@ -128,22 +135,23 @@
 - If you are unsure about a mechanic, please raise a 📋support-ticket or comment in 💬support 
 
 
-### 2.5 Characters must be 18 years of age or older. 
+### 2.6 Characters must be 18 years of age or older. 
 
+- You may not play an underage character.
 
-### 2.6 Death is the end of your character.
+### 2.7 Death is the end of your character.
 
 - If your character dies legitimately to game mechanics (falling, infection, bleeding), you are dead and will be dropped from the whitelist. 
 - You will have to start over with a new character. You will need to submit a whole new application. 
 
-#### 2.6.1 Grace period
+#### 2.7.1 Grace period
 
 - Newly created characters have a 72 in-game hour grace period. 
 - If you die during this time, you do not need to submit a new character. 
 - It is up to you to get your skills and items back; we will not restore them. 
 - We offer 1 revive and 3 heals during this grace period.
 
-#### 2.6.2 Reclaiming items from a previous character
+#### 2.7.2 Reclaiming items from a previous character
 
 - You cannot retrieve your items from a previous character until 2 real life days have passed.
 - We can’t stop you from rejoining your old faction, but you must not metagame to join the faction. You must discover it in-character. 
@@ -151,13 +159,13 @@
 - The same applies to independant characters. If not within a faction, you must still wait 2 real life days before recovering your items. 
 - You cannot leave a will promising all your items and/or safehouse to your next character.
 
-#### 2.6.3 Illegitimate deaths
+#### 2.7.3 Illegitimate deaths
 
 - If you died/became infected/injured because of a glitch or rule-breaking behavior committed upon you by someone, your character will be restored to as it was prior to the incident.
 - Please let us know by opening a support ticket and we will get right on that. We will also heal you if you are injured due to an ingame mechanic gone wrong or griefing. 
 - If you are revived or healed, you must roleplay the incident as a “near miss.” 
 
-### 2.7 Do not leave the playable area.
+### 2.8 Do not leave the playable area.
 
 - Each season of Lockdown features a clearly marked playable area. Players may not leave the area unless it is for an event.
 - Anyone caught sneaking out of the map to go and loot somewhere outside of it will be teleported back, and the loot will be confiscated. We check the logs often to stop such offenses. 
@@ -165,7 +173,7 @@
 - The boundaries are marked by checkpoints and rivers. Do NOT cross them.
 
 
-### 2.8 Romantic relationships are allowed, within reason.
+### 2.9 Romantic relationships are allowed, within reason.
 
 - Marriages, courting, dating, cohabiting, etc are all acceptable forms of roleplay. 
 - Gender is no barrior to romantic relationships. Same-sex relationships are acceptable.
@@ -173,7 +181,7 @@
 - Any player who is uncomfortable with a character's advances or feels another player is being inappropriate may come forward. We encourage you to submit a ticket with screenshots of the conversation. It will be handled discreetly and professionally. 
 
 
-### 2.9 Do not disassemble large amounts of furniture for XP gain.
+### 2.10 Do not disassemble large amounts of furniture for XP gain.
 
 - You may take furniture for decoration in your own house, but do not disassemble furniture for XP gain in carpentry. 
 - If this rule is violated, we will remove the XP gain and you will be issued a 24 hour ban. 
@@ -181,7 +189,7 @@
 - Fences are not part of this and can be deconstructed, provided they are not safehouse claims or world boundaries.
 
 
-### 2.10 Do not farm good-condition vehicles for parts, scrap, or XP. 
+### 2.11 Do not farm good-condition vehicles for parts, scrap, or XP. 
 
 - This rule exists to ensure that new players won't find it too difficult to obtain a usable vehicle. We want all of our players to have access to reasonable transportation. 
 - If a vehicle is over 35% condition, you may not salvage, dismantle, or take engine parts from it.
@@ -196,7 +204,7 @@
 - Feel free to open a support ticket and ask questions if you're in doubt.
 
 
-### 2.11 World knowledge.
+### 2.12 World knowledge.
 
 - If your character is a local, they may have some prior information on the world, such as factions, antagonists, and major events. 
 - This does not invalidate [rule 1.1 - No Metagaming](README.md#11-no-metagaming).
@@ -207,7 +215,7 @@
   - The staff team may remove the claim of a dead character's property, indicating that the property is abandoned.
 
 
-### 2.12 Roleplay your chosen PZ traits.
+### 2.13 Roleplay your chosen PZ traits.
 
 - When creating your character, pick traits that relate to your character. For example:
   - If you choose the cowardly trait, roleplay being cowardly. 
@@ -216,7 +224,7 @@
 - If you are caught with an excessive amount of traits you are not roleplaying, you will have your traits rebalanced by the moderator team and will be issued a warning.
 - Creating an optimized build without regard to your written character is a breach of rule [1.1 - No Metagaming](README.md#11-no-metagaming).
 
-### 2.13 Skill limiter.
+### 2.14 Skill limiter.
 
 - To prevent overpowered builds, we have a skill limiter in place. Your starting skill level determines the maximum skill levels you will be able to reach.
 - Crafting and survival skills are capped depending on your starting points:
@@ -409,11 +417,13 @@ Text based combat is allowed, provided the following rules are observed.
 - A single player may not claim an apartment block. However, they can claim a room within it. 
 - A group of 3 or more can claim a full apartment block as their safehouse.
 
-### 5.6 Players may claim one hauling vehicle and one mobility vehicle.
+### 5.6 Players may claim two vehicles, each of a different type.
 
-- Players may own a maximum of two (2) vehicles - one of each category.
-  - Hauling vehicle (truck, standard car, sports car)
-  - Mobility vehicle (motorcycle, scooter, ATV)
+- Players may own a maximum of two (2) vehicles. Each vehicle must be of a different type.
+  - Sport (muscle cars, motorcycles, ATVs, etc.)
+  - Standard (station wagons, taxis, jeeps, etc.)
+  - Heavy-Duty (trucks, buses, vans, etc.)
+- This means you could own, for example, a semi truck and a police cruiser. 
 - Players may claim one (1) trailer in addition to their vehicles.
 - To claim a vehicle, place a note in its glove box, in its trunk, and/or on the ground nearby.
 
@@ -421,7 +431,7 @@ Text based combat is allowed, provided the following rules are observed.
 
 - Thanks to the Vehicle Interiors mod, some vehicles (such as RVs and buses) have interiors that can be entered and lived in. These are known as mobile safehouses. Claiming one counts as claiming a safehouse.
   - By claiming a mobile safehouse, you forfeit your ability to claim a building/room/area.
-- Your mobile safehouse counts as your hauling vehicle. You may not claim, for example, both a bus and a jeep.
+- Your mobile safehouse counts as one of your vehicles. You may not claim, for example, both a bus and a truck.
 - Claiming a mobile safehouse is done the same as claiming a regular vehicle.
 
 
