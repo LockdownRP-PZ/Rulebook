@@ -234,6 +234,17 @@
 - Agility skills (sprint, sneak, nimble, lightfooted) are capped to an even lesser extent:
   0 = 9; 1 = 10 
 
+### 2.15 Character Re-Specs
+
+- In case you find that your character isn't represented in-game the way you imagined them, we offer a courtesy re-spec to give you a chance to adjust them. A re-spec will allow you to remake your character, respawning with an adjusted spread of traits.
+- You may request a re-spec for any reason. Common reasons for a re-spec:
+  - Learning about the Skill Limiter's effect
+  - Discovering that higher skill levels are needed to craft certain items (i.e. engine parts)
+  - Finding out that a trait is unpleasant to deal with
+- You are allowed one (1) re-spec per character.
+- To take this offer, please submit a 📋support-ticket, stating the reason why you want to re-spec. We will help start the process. In your submission, please include a screenshot of your character's current skills. Make sure your screenshot shows your character's name and the in-game date. We will restore the skill levels to the character after you load in, assuming your new build allows for your character to reach the same levels they were at before.
+- We will not award 'partial' levels in skills.
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ![ThreeArmedSurvivors](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/ThreeArmedSurvivors.png)
