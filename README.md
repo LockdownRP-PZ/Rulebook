@@ -131,7 +131,10 @@
 
 - You must not use exploits or circumvent normal game mechanics to do things your character would not normally be able to do. 
 - Bug abuse, hacks, and other forms of game exploitation are disallowed. 
-- Exploitative base building (skyhouses, building across/onto a lake) is also disallowed. This includes placing walls over bridges. You may build a gate, provided it can be opened normally. 
+- Exploitative building is disallowed. 
+  - Sky-houses
+  - Water-surrounded "floating" buildings
+  - Player traps, such as a gap in the floor obscured by tall structures
 - If you are unsure about a mechanic, please raise a 📋support-ticket or comment in 💬support 
 
 
@@ -257,10 +260,10 @@
 
 ### 3.2 Do not destroy any items or architecture
 
-- You are not permitted to destroy any items in the base. This included destroying locked containers to force loot to drop. 
-- To gain entry and legally loot a base, the base must be unlocked. You are not permitted to break down a door, wall or barricade. You must find a legitimate way in. 
-  - An example of an illegal base raiding techniques is using zombies to break down parts of a base.
-  - Any form of damage to a base by a player will be classified as griefing and will be dealt with as such.
+- You are not permitted to destroy any items in the safehouse. This included destroying locked containers to force loot to drop. 
+- To gain entry and legally loot a safehouse, the safehouse must be unlocked. You are not permitted to break down a door, wall or barricade. You must find a legitimate way in. 
+  - An example of an illegal safehouse raiding techniques is using zombies to break down parts of a safehouse.
+  - Any form of damage to a safehouse by a player will be classified as griefing and will be dealt with as such.
 
 ### 3.3 Do not steal an overwhelming amount.
 
@@ -282,7 +285,7 @@
 
 ### 3.7 Leave a clue
 
-- When a player has stolen from another player, whether at their base, their vehicle, or elsewhere, they must leave a clue behind give the victim a lead on the culprit.
+- When a player has stolen from another player, whether at their safehouse, their vehicle, or elsewhere, they must leave a clue behind give the victim a lead on the culprit.
 - This rule exists to ensure players roleplay criminal interactions. We are a story driven server, and thefts are expected to result in roleplay.
 - Clues may be done in the form of a written note and/or items.
 - Leave stronger clues for larger thefts.
@@ -414,7 +417,7 @@ Text based combat is allowed, provided the following rules are observed.
 ### 5.3 Mark your safehouse with a piece of paper, journal, or notepad.
 
 - To claim a safehouse, you must place a piece of paper, journal or notepad at each entrance which is accessible to your building.
-- You may also use the in-game safehouse system, but it is ancillary to these rules.
+- The in-game safehouse system is disabled. It causes more problems than it solves, so we rely on these safehouse rules.
 - The claim note must include the safehouse owner's name(s). 
   - Please place each owner/user of the safehouse on the note. This is to prevent any offline raiding and also so we know who has access to your items when you are not online.
 
@@ -460,7 +463,7 @@ Text based combat is allowed, provided the following rules are observed.
   - A list of the members in the faction
 - We may further ask you a couple more questions such as if they have a backstory (for example, a police unit, military unit or a family) and any faction goals.
 - Registered factions must have a minimum of 3 players and a maximum of 8 players.
-- You do not have to be living in the same base to submit a faction request, only that you agree to form a faction. 
+- You do not have to be living in the same safehouse to submit a faction request, only that you agree to form a faction. 
 - When a faction is registered, they obtain a Discord channel which functions as a private radio channel that only the faction members know of.
 
 ### 6.2 Notify staff of new members.
@@ -479,20 +482,20 @@ Text based combat is allowed, provided the following rules are observed.
 
 ### 6.5 Faction wars are allowed, provided all PvP rules are followed.
 
-### 6.6 Base raiding another faction is allowed.
+### 6.6 Safehouse raiding another faction is allowed.
 
-- If you are raiding a rival faction base, normal theft rules apply. You cannot break down any of the barricades/doors. 
+- If you are raiding a rival faction safehouse, normal theft rules apply. You cannot break down any of the barricades/doors. 
 - In a faction v faction PVP scenario, you are allowed to break down or remove player made barricades/doors. 
-- Each player is limited to 30 lbs of weight. You can now use up to 5 players for a faction V faction base raid. 
-- Offline raiding is still prohibited. At least 1 member of a faction must be online to commence the base raid. 
+- Each player is limited to 30 lbs of weight. You can now use up to 5 players for a faction V faction safehouse raid. 
+- Offline raiding is still prohibited. At least 1 member of a faction must be online to commence the safehouse raid. 
 
 ### 6.7 Factions may claim a faction safehouse 
 
 - Faction safehouses are allowed be larger than independent player safehouses.
 - If your faction decides to claim a faction safehouse, all members must consolidate their safehouse claims into it. That is, members must forfeit their independent safehouse claims and move into the faction safehouse.
-- Each player may have a personal claim within a faction base. 
+- Each player may have a personal claim within a faction safehouse. 
   - For example, if your faction is based out of an apartment block, you may claim a room in that block. 
-  - A faction member's personal claim is treated separately from the faction base (it may not be stolen from if the member is offline).
+  - A faction member's personal claim is treated separately from the faction safehouse (it may not be stolen from if the member is offline).
 
 
 ---------------------------------------------------------------------------------------------------------------------
