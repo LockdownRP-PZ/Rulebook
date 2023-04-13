@@ -408,7 +408,7 @@ Text based combat is allowed, provided the following rules are observed.
 # SAFEHOUSE AND VEHICLE CLAIMS
 
 
-### 5.1 Players may claim a safehouse after surviving 72 in-game hours.
+### 5.1 Players may claim a safehouse at any time after joining the game.
 
 ### 5.2 Safehouses become invalid after 2 real-life weeks of inactivity.
 
@@ -423,7 +423,8 @@ Text based combat is allowed, provided the following rules are observed.
 
 ### 5.4 Only clearly-marked-areas, buildings, rooms, and vehicles may be claimed.
 
-- A particular container in a property cannot be claimed. Claimed containers will not be subject to theft rules.
+- A particular container in a property cannot be claimed. 
+  - Claimed containers will not be subject to theft rules.
 - To claim an area, wall off the area by either a fence or wall and place a claim note by each entrance (such as a gate or an empty space in the wall/fence).
 
 ### 5.5 Do not claim an unreasonably large area.
@@ -466,14 +467,16 @@ Text based combat is allowed, provided the following rules are observed.
 - You do not have to be living in the same safehouse to submit a faction request, only that you agree to form a faction. 
 - When a faction is registered, they obtain a Discord channel which functions as a private radio channel that only the faction members know of.
 
-### 6.2 Notify staff of new members.
+### 6.2 Factions may claim a faction vehicle in addition to the individual members' vehicles.
 
-- If a new member joins your faction, open a support ticket letting us know you wish to add the player to your discord faction channel. This is for our records as well as yours.
+- To claim a faction vehicle, write the name of the faction and its members on the claim note.
+- Your faction vehicle may be of any type (sport, standard, or heavy-duty).
+- Factions may have ONE faction vehicle, regardless of faction size.
 
-### 6.3 Factions may claim no more than ONE vehicle per member plus ONE faction vehicle
+### 6.3 Notify staff of new and removed members.
 
-- To prevent any a faction from hoarding vehicles, we are enforcing this vehicle limit.
-- No matter the size of the faction, this rule is enforced. This ruling means, for example, if you have 4 members in a faction, then you can have up to 5 vehicles. 
+- If a member joins or leaves your faction, make an out-of-character request to @Admin Team in your Discord faction channel.
+  - For example: || @Admin Team Please add Jim Thornton to the faction. ||
 
 ### 6.4 Notify staff when your faction has disbanded.
 
