@@ -251,6 +251,27 @@
 - To take this offer, please submit a 📋support-ticket, stating the reason why you want to re-spec. We will help start the process. In your submission, please include a screenshot of your character's current skills. Make sure your screenshot shows your character's name and the in-game date. We will restore the skill levels to the character after you load in, assuming your new build allows for your character to reach the same levels they were at before.
 - We will not award 'partial' levels in skills.
 
+### 2.16 Close-Call Token
+
+Players begin each season/anthology with a *"close-call token"*. Players may turn in their token to revive their character for any reason.
+
+- The token can be used once per season/anthology, per player - meaning that if you used the token on one character, it can't be used on another during the same season/anthology.
+- The token grants a revive without requiring proof of the cause of death.
+- The token does not have a time limit. It can be used at any point during the season/anthology.
+- Tokens do not carry over to following seasons/anthologies. You cannot save a token for use in a later season/anthology.
+- The death must be roleplayed as a close call by the character - meaning your character *almost* died, but for some reason they didn't.
+- The character will receive wounds compatible with the cause of death to simulate what they went through.
+- If the token is used because of a PvP related death...
+  - The killer and the victim must agree Out-Of-Character on the use of the token revive. The killer may veto the revive, in which case the token will not be used.
+  - The victim cannot retaliate against the killer for 48 real-life hours.
+
+To use your *close-call* token, open a 📋support ticket explaining that you would like to do so. Provide the following information:
+
+- Your character's full name.
+- A description of the cause of death.
+- Your idea for how the close call will be roleplayed.
+  - If you're struggling to come up with a close call, feel free to ask. We'll help you choose one.
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ![ThreeArmedSurvivors](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/ThreeArmedSurvivors.png)
