@@ -92,6 +92,13 @@
 
 - Gore Roleplay, Explicit Torture RP, Slavery RP, Racism/Homophobia, or any other forms of perverse roleplay, is not allowed on the server.
 
+
+### 1.9 Remain present on the Discord server
+
+- To play on the game server, you must be a member of the Discord server.
+- If you leave the Discord server, your character will be removed from the whitelist.
+- You are not required to participate in chats on Discord.
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ![TheCrowCampground](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheCrowCampground.png)
@@ -142,10 +149,12 @@
 
 - You may not play an underage character.
 
+
 ### 2.7 Death is the end of your character.
 
 - If your character dies legitimately to game mechanics (falling, infection, bleeding), you are dead and will be dropped from the whitelist. 
 - You will have to start over with a new character. You will need to submit a whole new application. 
+
 
 #### 2.7.1 Grace period
 
@@ -153,6 +162,7 @@
 - If you die during this time, you do not need to submit a new character. 
 - It is up to you to get your skills and items back; we will not restore them. 
 - We offer 1 revive and 3 heals during this grace period.
+
 
 #### 2.7.2 Reclaiming items from a previous character
 
@@ -162,11 +172,13 @@
 - The same applies to independant characters. If not within a faction, you must still wait 2 real life days before recovering your items. 
 - You cannot leave a will promising all your items and/or safehouse to your next character.
 
+
 #### 2.7.3 Illegitimate deaths
 
 - If you died/became infected/injured because of a glitch or rule-breaking behavior committed upon you by someone, your character will be restored to as it was prior to the incident.
 - Please let us know by opening a support ticket and we will get right on that. We will also heal you if you are injured due to an ingame mechanic gone wrong or griefing. 
 - If you are revived or healed, you must roleplay the incident as a “near miss.” 
+
 
 ### 2.8 Do not leave the playable area.
 
@@ -227,6 +239,7 @@
 - If you are caught with an excessive amount of traits you are not roleplaying, you will have your traits rebalanced by the moderator team and will be issued a warning.
 - Creating an optimized build without regard to your written character is a breach of rule [1.1 - No Metagaming](README.md#11-no-metagaming).
 
+
 ### 2.14 Skill limiter.
 
 - To prevent overpowered builds, we have a skill limiter in place. Your starting skill level determines the maximum skill levels you will be able to reach.
@@ -236,6 +249,7 @@
   0 = 7; 1 = 9; 2 = 10;
 - Agility skills (sprint, sneak, nimble, lightfooted) are capped to an even lesser extent:
   0 = 9; 1 = 10 
+
 
 ### 2.15 Character Re-Specs
 
@@ -247,6 +261,7 @@
 - You are allowed one (1) re-spec per character.
 - To take this offer, please submit a 📋support-ticket, stating the reason why you want to re-spec. We will help start the process. In your submission, please include a screenshot of your character's current skills. Make sure your screenshot shows your character's name and the in-game date. We will restore the skill levels to the character after you load in, assuming your new build allows for your character to reach the same levels they were at before.
 - We will not award 'partial' levels in skills.
+
 
 ### 2.16 Close-Call Token
 
