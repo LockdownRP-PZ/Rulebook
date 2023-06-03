@@ -476,8 +476,8 @@ Text based combat is allowed, provided the following rules are observed.
 ### 5.7 Players may claim two vehicles, each of a different type.
 
 - Players may own a maximum of two (2) vehicles. Each vehicle must be of a different type.
-  - Sport (muscle cars, motorcycles, ATVs, etc.)
-  - Standard (station wagons, taxis, jeeps, etc.)
+  - Sport (muscle cars, motorcycles, etc.)
+  - Standard (station wagons, taxis, jeeps, ATVs, etc.)
   - Heavy-Duty (trucks, buses, vans, etc.)
 - This means you could own, for example, a semi truck and a police cruiser. 
 - Players may claim one (1) trailer in addition to their vehicles.
@@ -486,7 +486,7 @@ Text based combat is allowed, provided the following rules are observed.
 ### 5.8 Players can claim a mobile safehouse in lieu of a building/room/area.
 
 - Thanks to the Vehicle Interiors mod, some vehicles (such as RVs and buses) have interiors that can be entered and lived in. These are known as mobile safehouses. Claiming one counts as claiming a safehouse.
-- Your mobile safehouse counts as one of your vehicles. You may not claim, for example, both a bus and a truck (because they are both heafy-duty).
+- Your mobile safehouse counts as one of your vehicles. You may not claim, for example, both a bus and a truck (because they are both heavy-duty).
 - Claiming a mobile safehouse is done the same as claiming a regular vehicle.
 
 
@@ -532,10 +532,10 @@ Text based combat is allowed, provided the following rules are observed.
 - Each player is limited to 30 lbs of weight. You can now use up to 5 players for a faction V faction safehouse raid. 
 - Offline raiding is still prohibited. At least 1 member of a faction must be online to commence the safehouse raid. 
 
-### 6.7 Factions may claim a faction safehouse 
+### 6.7 Factions may claim a faction safehouse in addition to the individual members' safehouses
 
 - Faction safehouses are allowed be larger than independent player safehouses.
-- A faction safehouse is in addition to players' individual safehouse(s).
+- A faction safehouse is in addition to players' independent safehouse(s).
 - Each player may have a personal claim within a faction safehouse. 
   - For example, if your faction is based out of an apartment block, you may claim a room in that block. 
   - A faction member's personal claim is treated separately from the faction safehouse (it may not be stolen from if the member is offline).
