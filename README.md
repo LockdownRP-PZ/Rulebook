@@ -95,6 +95,13 @@
 
 - Gore Roleplay, Explicit Torture RP, Slavery RP, Racism/Homophobia, or any other forms of perverse roleplay, is not allowed on the server.
 
+
+### 1.9 Remain present on the Discord server
+
+- To play on the game server, you must be a member of the Discord server.
+- If you leave the Discord server, your character will be removed from the whitelist.
+- You are not required to participate in chats on Discord.
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ![TheCrowCampground](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheCrowCampground.png)
@@ -145,10 +152,12 @@
 
 - You may not play an underage character.
 
+
 ### 2.7 Death is the end of your character.
 
 - If your character dies legitimately to game mechanics (falling, infection, bleeding), you are dead and will be dropped from the whitelist. 
 - You will have to start over with a new character. You will need to submit a whole new application. 
+
 
 #### 2.7.1 Grace period
 
@@ -156,6 +165,7 @@
 - If you die during this time, you do not need to submit a new character. 
 - It is up to you to get your skills and items back; we will not restore them. 
 - We offer 1 revive and 3 heals during this grace period.
+
 
 #### 2.7.2 Reclaiming items from a previous character
 
@@ -165,11 +175,13 @@
 - The same applies to independant characters. If not within a faction, you must still wait 2 real life days before recovering your items. 
 - You cannot leave a will promising all your items and/or safehouse to your next character.
 
+
 #### 2.7.3 Illegitimate deaths
 
 - If you died/became infected/injured because of a glitch or rule-breaking behavior committed upon you by someone, your character will be restored to as it was prior to the incident.
 - Please let us know by opening a support ticket and we will get right on that. We will also heal you if you are injured due to an ingame mechanic gone wrong or griefing. 
 - If you are revived or healed, you must roleplay the incident as a “near miss.” 
+
 
 ### 2.8 Do not leave the playable area.
 
@@ -230,6 +242,7 @@
 - If you are caught with an excessive amount of traits you are not roleplaying, you will have your traits rebalanced by the moderator team and will be issued a warning.
 - Creating an optimized build without regard to your written character is a breach of rule [1.1 - No Metagaming](README.md#11-no-metagaming).
 
+
 ### 2.14 Skill limiter.
 
 - To prevent overpowered builds, we have a skill limiter in place. Your starting skill level determines the maximum skill levels you will be able to reach.
@@ -239,6 +252,7 @@
   0 = 7; 1 = 9; 2 = 10;
 - Agility skills (sprint, sneak, nimble, lightfooted) are capped to an even lesser extent:
   0 = 9; 1 = 10 
+
 
 ### 2.15 Character Re-Specs
 
@@ -250,6 +264,7 @@
 - You are allowed one (1) re-spec per character.
 - To take this offer, please submit a 📋support-ticket, stating the reason why you want to re-spec. We will help start the process. In your submission, please include a screenshot of your character's current skills. Make sure your screenshot shows your character's name and the in-game date. We will restore the skill levels to the character after you load in, assuming your new build allows for your character to reach the same levels they were at before.
 - We will not award 'partial' levels in skills.
+
 
 ### 2.16 Close-Call Token
 
@@ -434,43 +449,47 @@ Text based combat is allowed, provided the following rules are observed.
 
 ### 5.1 Players may claim a safehouse at any time after joining the game.
 
-### 5.2 Safehouses become invalid after 2 real-life weeks of inactivity.
+### 5.2 Players may claim up to two safehouses.
+
+- You may use each safehouse for whatever you wish. 
+- For example, you might use one safehouse for housing and the other safehouse as a shop front.
+
+### 5.3 Safehouses become invalid after 2 real-life weeks of inactivity.
 
 - Exceptions may be made. If you will be away for an extended period, please submit a support ticket to present your case.
 
-### 5.3 Mark your safehouse with a piece of paper, journal, or notepad.
+### 5.4 Mark your safehouse with a piece of paper, journal, or notepad.
 
 - To claim a safehouse, you must place a piece of paper, journal or notepad at each entrance which is accessible to your building.
 - The in-game safehouse system is disabled. It causes more problems than it solves, so we rely on these safehouse rules.
 - The claim note must include the safehouse owner's name(s). 
-  - Please place each owner/user of the safehouse on the note. This is to prevent any offline raiding and also so we know who has access to your items when you are not online.
+  - Please place each owner/user of the safehouse on the note. This is to prevent any offline raiding and so we know who has access to your items when you are not online.
 
-### 5.4 Only clearly-marked-areas, buildings, rooms, and vehicles may be claimed.
+### 5.5 Only clearly-marked-areas, buildings, rooms, and vehicles may be claimed.
 
 - A particular container in a property cannot be claimed. 
   - Claimed containers will not be subject to theft rules.
 - To claim an area, wall off the area by either a fence or wall and place a claim note by each entrance (such as a gate or an empty space in the wall/fence).
 
-### 5.5 Do not claim an unreasonably large area.
+### 5.6 Do not claim an unreasonably large area.
 
 - A single player may not claim an apartment block. However, they can claim a room within it. 
 - A group of 3 or more can claim a full apartment block as their safehouse.
 
-### 5.6 Players may claim two vehicles, each of a different type.
+### 5.7 Players may claim two vehicles, each of a different type.
 
 - Players may own a maximum of two (2) vehicles. Each vehicle must be of a different type.
-  - Sport (muscle cars, motorcycles, ATVs, etc.)
-  - Standard (station wagons, taxis, jeeps, etc.)
+  - Sport (muscle cars, motorcycles, etc.)
+  - Standard (station wagons, taxis, jeeps, ATVs, etc.)
   - Heavy-Duty (trucks, buses, vans, etc.)
 - This means you could own, for example, a semi truck and a police cruiser. 
 - Players may claim one (1) trailer in addition to their vehicles.
 - To claim a vehicle, place a note in its glove box, in its trunk, and/or on the ground nearby.
 
-### 5.7 Players can claim a mobile safehouse in lieu of a building/room/area.
+### 5.8 Players can claim a mobile safehouse in lieu of a building/room/area.
 
 - Thanks to the Vehicle Interiors mod, some vehicles (such as RVs and buses) have interiors that can be entered and lived in. These are known as mobile safehouses. Claiming one counts as claiming a safehouse.
-  - By claiming a mobile safehouse, you forfeit your ability to claim a building/room/area.
-- Your mobile safehouse counts as one of your vehicles. You may not claim, for example, both a bus and a truck.
+- Your mobile safehouse counts as one of your vehicles. You may not claim, for example, both a bus and a truck (because they are both heavy-duty).
 - Claiming a mobile safehouse is done the same as claiming a regular vehicle.
 
 
@@ -516,13 +535,14 @@ Text based combat is allowed, provided the following rules are observed.
 - Each player is limited to 30 lbs of weight. You can now use up to 5 players for a faction V faction safehouse raid. 
 - Offline raiding is still prohibited. At least 1 member of a faction must be online to commence the safehouse raid. 
 
-### 6.7 Factions may claim a faction safehouse 
+### 6.7 Factions may claim a faction safehouse in addition to the individual members' safehouses
 
 - Faction safehouses are allowed be larger than independent player safehouses.
-- If your faction decides to claim a faction safehouse, all members must consolidate their safehouse claims into it. That is, members must forfeit their independent safehouse claims and move into the faction safehouse.
+- A faction safehouse is in addition to players' independent safehouse(s).
 - Each player may have a personal claim within a faction safehouse. 
   - For example, if your faction is based out of an apartment block, you may claim a room in that block. 
   - A faction member's personal claim is treated separately from the faction safehouse (it may not be stolen from if the member is offline).
+  - If you have a personal claim within your faction safehouse, it counts as one of your personal safehouses.
 
 
 ---------------------------------------------------------------------------------------------------------------------
