@@ -446,29 +446,34 @@ Text based combat is allowed, provided the following rules are observed.
 
 ### 5.1 Players may claim a safehouse at any time after joining the game.
 
-### 5.2 Safehouses become invalid after 2 real-life weeks of inactivity.
+### 5.2 Players may claim up to two safehouses.
+
+- You may use each safehouse for whatever you wish. 
+- For example, you might use one safehouse for housing and the other safehouse as a shop front.
+
+### 5.3 Safehouses become invalid after 2 real-life weeks of inactivity.
 
 - Exceptions may be made. If you will be away for an extended period, please submit a support ticket to present your case.
 
-### 5.3 Mark your safehouse with a piece of paper, journal, or notepad.
+### 5.4 Mark your safehouse with a piece of paper, journal, or notepad.
 
 - To claim a safehouse, you must place a piece of paper, journal or notepad at each entrance which is accessible to your building.
 - The in-game safehouse system is disabled. It causes more problems than it solves, so we rely on these safehouse rules.
 - The claim note must include the safehouse owner's name(s). 
-  - Please place each owner/user of the safehouse on the note. This is to prevent any offline raiding and also so we know who has access to your items when you are not online.
+  - Please place each owner/user of the safehouse on the note. This is to prevent any offline raiding and so we know who has access to your items when you are not online.
 
-### 5.4 Only clearly-marked-areas, buildings, rooms, and vehicles may be claimed.
+### 5.5 Only clearly-marked-areas, buildings, rooms, and vehicles may be claimed.
 
 - A particular container in a property cannot be claimed. 
   - Claimed containers will not be subject to theft rules.
 - To claim an area, wall off the area by either a fence or wall and place a claim note by each entrance (such as a gate or an empty space in the wall/fence).
 
-### 5.5 Do not claim an unreasonably large area.
+### 5.6 Do not claim an unreasonably large area.
 
 - A single player may not claim an apartment block. However, they can claim a room within it. 
 - A group of 3 or more can claim a full apartment block as their safehouse.
 
-### 5.6 Players may claim two vehicles, each of a different type.
+### 5.7 Players may claim two vehicles, each of a different type.
 
 - Players may own a maximum of two (2) vehicles. Each vehicle must be of a different type.
   - Sport (muscle cars, motorcycles, ATVs, etc.)
@@ -478,11 +483,10 @@ Text based combat is allowed, provided the following rules are observed.
 - Players may claim one (1) trailer in addition to their vehicles.
 - To claim a vehicle, place a note in its glove box, in its trunk, and/or on the ground nearby.
 
-### 5.7 Players can claim a mobile safehouse in lieu of a building/room/area.
+### 5.8 Players can claim a mobile safehouse in lieu of a building/room/area.
 
 - Thanks to the Vehicle Interiors mod, some vehicles (such as RVs and buses) have interiors that can be entered and lived in. These are known as mobile safehouses. Claiming one counts as claiming a safehouse.
-  - By claiming a mobile safehouse, you forfeit your ability to claim a building/room/area.
-- Your mobile safehouse counts as one of your vehicles. You may not claim, for example, both a bus and a truck.
+- Your mobile safehouse counts as one of your vehicles. You may not claim, for example, both a bus and a truck (because they are both heafy-duty).
 - Claiming a mobile safehouse is done the same as claiming a regular vehicle.
 
 
@@ -531,10 +535,11 @@ Text based combat is allowed, provided the following rules are observed.
 ### 6.7 Factions may claim a faction safehouse 
 
 - Faction safehouses are allowed be larger than independent player safehouses.
-- If your faction decides to claim a faction safehouse, all members must consolidate their safehouse claims into it. That is, members must forfeit their independent safehouse claims and move into the faction safehouse.
+- A faction safehouse is in addition to players' individual safehouse(s).
 - Each player may have a personal claim within a faction safehouse. 
   - For example, if your faction is based out of an apartment block, you may claim a room in that block. 
   - A faction member's personal claim is treated separately from the faction safehouse (it may not be stolen from if the member is offline).
+  - If you have a personal claim within your faction safehouse, it counts as one of your personal safehouses.
 
 
 ---------------------------------------------------------------------------------------------------------------------
