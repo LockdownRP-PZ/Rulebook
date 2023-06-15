@@ -256,7 +256,7 @@
 
 ### 2.15 Character Re-Specs
 
-- In case you find that your character isn't represented in-game the way you imagined them, we offer a courtesy re-spec to give you a chance to adjust them. A re-spec will allow you to remake your character, respawning with an adjusted spread of traits.
+- In case you find that your character isn't represented in-game the way you imagined them, we offer a courtesy re-spec (aka respec) to give you a chance to adjust them. A re-spec will allow you to remake your character, respawning with an adjusted spread of traits.
 - You may request a re-spec for any reason. Common reasons for a re-spec:
   - Learning about the Skill Limiter's effect
   - Discovering that higher skill levels are needed to craft certain items (i.e. engine parts)
