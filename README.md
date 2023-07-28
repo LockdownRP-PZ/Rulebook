@@ -196,10 +196,12 @@
 - Any player who is uncomfortable with a character's advances or feels another player is being inappropriate may come forward. We encourage you to submit a ticket with screenshots of the conversation. It will be handled discreetly and professionally. 
 
 
-### 2.10 Do not disassemble large amounts of furniture for XP gain.
+### 2.10 Do not disassemble large amounts of furniture.
 
-- You may take furniture for decoration in your own house, but do not disassemble furniture for XP gain in carpentry. 
+- You may take furniture for decoration in your own house, but do not disassemble mass amounts of furniture for Carpentry XP or materials. 
+- It is more efficient to use an axe and saw to chop trees and saw logs. Trees are also a renewable resource.
 - If this rule is violated, we will remove the XP gain and you will be issued a 24 hour ban. 
+- This rule exists to preserve the map's aesthetic and allow players the opportunity to obtain furniture for decoration.
 - Inside of your own safehouse you may do as you wish with your furniture. In unclaimed areas, do not mass disassemble the props. This is a recognised form of griefing. 
 - Fences are not part of this and can be deconstructed, provided they are not safehouse claims or world boundaries.
 
