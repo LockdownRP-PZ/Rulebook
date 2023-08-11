@@ -442,6 +442,20 @@ Text based combat is allowed, provided the following rules are observed.
   - Instead of this, the attacker may make an *attempt*. 
   - Here's an acceptable alternative: "/me swings his bat at Robert's face, aiming for his nose."
 
+## ALTERNATIVE PVP RULES
+
+### 4.8 Consent Exception: Combat Warning System
+
+- Some areas of the map are designated "open combat" zones. They will be specially marked as such. Inside these zones, different PvP rules apply. Entering the area means you consent to these rules. The rule is referred to as the Combat Warning (CW) system. The goal of this system is to solidify the danger inhabiting the zone by removing the usual need for consent.
+- Open combat zones will have limited entrances. Each entrance will have clearly marked warnings about what it means to enter the area.
+- Instead of consent, a threat will be issued in the form of an emote, an exclamation, or a remark, which will end with: (CW)
+- The Combat Warning serves to warn players that PVP will be engaged and to choose their next move carefully. (CW) indicates that you will be attacked. After being given a combat warning, you will be given the chance to make one emote or statement before being open to combat. 
+- You may surrender or make a run for it, but doing so will not guarantee your safety.
+- NPC's will provide a clear emoted combat warning prior to engaging a player-character. Examples:
+  - /do The white-light glint of a faraway scope catches your eye. A trigger-happy fellow is itching to shoot. (CW)
+  - /yell "Turn around NOW!" (CW)
+  - /me pulls out a gun (CW)
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ![MeritReevesFinalConfrontation](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/MeritReevesFinalConfrontation.png)
