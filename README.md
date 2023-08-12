@@ -176,9 +176,19 @@
 #### 2.7.3 Illegitimate deaths
 
 - If you died/became infected/injured because of a glitch or rule-breaking behavior committed upon you by someone, your character will be restored to as it was prior to the incident.
-- Please let us know by opening a support ticket and we will get right on that. We will also heal you if you are injured due to an ingame mechanic gone wrong or griefing. 
+- Let us know by opening a support ticket. 
+- You *must* provide video evidence of what happened. 
+  - Record your gameplay sessions using software such as NVIDIA's ShadowPlay feature, Medal, or OutPlayed.
+  - Check out this announcement for more info: https://discord.com/channels/929553323613368413/929562126249500743/1120686211984535582
+  - We cannot issue a revive or heal without direct video evidence of the incident.
 - If you are revived or healed, you must roleplay the incident as a “near miss.” 
 
+
+### 2.7.4 Evading infection death via logout
+
+- If your character becomes infected with the zombie infection, you are expected to play it out until they are either cured or dead.
+- If you delay the infection death by staying logged out for two (2) weeks, your character will be considered dead.
+- An exception can be made if you will be going on an extended hiatus. Submit a support ticket to inform staff so we can work something out.
 
 ### 2.8 Do not leave the playable area.
 
@@ -443,12 +453,14 @@ Text based combat is allowed, provided the following rules are observed.
 
 ### 4.8 Consent Exception: Combat Warning System
 
-- Some areas of the map are designated "open combat" zones. They will be specially marked as such. Inside these zones, different PvP rules apply. Entering the area means you consent to these rules. The rule is referred to as the Combat Warning (CW) system. The goal of this system is to solidify the danger inhabiting the zone by removing the usual need for consent.
+- Some areas of the map are designated "Open Combat" zones. They will be specially marked as such. Inside these zones, different PvP rules apply. Entering the area means you consent to these rules. The rule is referred to as the Combat Warning (CW) system. The goal of this system is to solidify the danger inhabiting the zone by removing the usual need for consent.
+- These rule apply to NPC vs PC combat only. Players may not use this system to initiate PvP with other players.
 - Open combat zones will have limited entrances. Each entrance will have clearly marked warnings about what it means to enter the area.
 - Instead of consent, a threat will be issued in the form of an emote, an exclamation, or a remark, which will end with: (CW)
-- The Combat Warning serves to warn players that PVP will be engaged and to choose their next move carefully. (CW) indicates that you will be attacked. After being given a combat warning, you will be given the chance to make one emote or statement before being open to combat. 
+- The Combat Warning serves to warn players that PVP will be engaged and to choose their next move carefully. (CW) indicates that you will be attacked. 
+- After being given a combat warning, you will be given the chance to make one emote or statement before being open to combat. 
 - You may surrender or make a run for it, but doing so will not guarantee your safety.
-- NPC's will provide a clear emoted combat warning prior to engaging a player-character. Examples:
+- NPCs will provide a clear emoted combat warning prior to engaging a player-character. Examples:
   - /do The white-light glint of a faraway scope catches your eye. A trigger-happy fellow is itching to shoot. (CW)
   - /yell "Turn around NOW!" (CW)
   - /me pulls out a gun (CW)
@@ -564,12 +576,13 @@ Text based combat is allowed, provided the following rules are observed.
 
 ![BanquetTable](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/BanquetTable.png)
 
-### 7.1 NPC characters will NOT engage first in combat without prior OOC consent with the player.
+### 7.1 PvP with NPCs
 
 - Regular PvP consent rules apply.
-- Any injuries that may be caused directly to the player by the event staff will be discussed prior to them being inflicted.
-- Players will have the choice to decline having their characters injured directly by an event team member. However injuries caused indirectly (E.G a zombie spawning and scratching the player character) will not be held responsible by the event staff.
+  - That is, consent must be gained except in Open Combat zones.
+- If PvP occurs against NPCs, only staff NPCs will have PVP enabled. 
+  - This is to enable players to engage in PvP without accidentally injuring other players.
 
-### 7.2 If PvP occurs, only staff NPCs will have PVP enabled. 
+### 7.2 Injuries during events
 
-- This rule is in place so that players may engage in PvP without injuring other players in their immediate area.
+- Event staff will not be held responsible for injuries caused indirectly by staff during events (E.G a spawned zombie scratching the player character).
