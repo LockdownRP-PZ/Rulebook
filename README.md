@@ -111,7 +111,8 @@
 
 ### 2.1 Do not break character when in-game. 
 
-- If you must talk out-of-character, use the proper channels on Discord and on the server. Use /looc if you absolutely must use OOC to brief those you are roleplaying with for an emergency or in a staff situation, for example. 
+- Stay in character at all times.
+- If you must talk out-of-character, use the proper channels on Discord and on the server. Use /looc if you absolutely must use OOC to brief those you are roleplaying with.
 
 
 ### 2.2 Roleplay a character of your own design.
@@ -128,16 +129,28 @@
 - You may not bring back a retired character.
 
 
-### 2.4 Use the proper channels for in-character communication.
+### 2.4 Character archetype limits.
+
+- Certain character archetypes are subject to rigorous scrutiny. The idea of this rule is to discourage common and poorly-done character archetypes, encouraging variety and uniqueness among characters.
+- Limited-archetype characters will not be accepted unless the applicant can make the character unique outside of their profession. The likelihood this type of character being accepted is low. Applicants may attempt to apply for a limited-archetype character once per season/anthology. If denied, they will be asked to submit a different character with a different background/profession on their next attempted application.
+  - After playing a non-limited-archetype character, a user may apply for a limited-archetype character again. 
+- Limited archetypes:
+  - Military (soldiers, spies, commanders)
+  - Domestic Security (police, FBI, CIA)
+  - Mercenary (bounty hunter, freelance security)
+- These are general archetypes. Characters may fall under this rule depending on application handler discretion.
+
+
+### 2.5 Use the proper channels for in-character communication.
 
 - Discord (private or sever) messages do not count as private walkie-talkie channels unless stated otherwise. 
-- We have a public discord channel for in-character public radio broadcasts. You can use it to find other characters or converse with them. There are also faction channels which registered factions can use for in-character communication on a faction-member-only radio frequency. 
+- We have a public Discord channel for in-character public radio broadcasts. You can use it to find other characters or converse with them. There are also faction channels which registered factions can use for in-character communication on a faction-member-only radio frequency. 
 - Use in-game radios to communicate with other characters across distances. 
   - Speak to other characters and decide on a radio frequency to use.
   - We have a mod that allows your radio to continue receiving and transmitting while inside containers or attached to your belt. Take advantage of that.
 
 
-### 2.5 Do not abuse game mechanics.
+### 2.6 Do not abuse game mechanics.
 
 - You must not use exploits or circumvent normal game mechanics to do things your character would not normally be able to do. 
 - Bug abuse, hacks, and other forms of game exploitation are disallowed. 
@@ -148,18 +161,18 @@
 - If you are unsure about a mechanic, please raise a 📋support-ticket or comment in 💬support 
 
 
-### 2.6 Characters must be 18 years of age or older. 
+### 2.7 Characters must be 18 years of age or older. 
 
 - You may not play an underage character.
 
 
-### 2.7 Death is the end of your character.
+### 2.8 Death is the end of your character.
 
 - If your character dies legitimately to game mechanics (falling, infection, bleeding), you are dead and will be dropped from the whitelist. 
 - You will have to start over with a new character. You will need to submit a whole new application. 
 
 
-#### 2.7.1 Grace period
+#### 2.8.1 Grace period
 
 - Newly created characters have a 72 in-game hour grace period. 
 - If you die during this time, you do not need to submit a new character. 
@@ -167,7 +180,7 @@
 - We offer 1 revive and 3 heals during this grace period.
 
 
-#### 2.7.2 Reclaiming items from a previous character
+#### 2.8.2 Reclaiming items from a previous character
 
 - You cannot retrieve your items from a previous character until 2 real life days have passed.
 - We can’t stop you from rejoining your old faction, but you must not metagame to join the faction. You must discover it in-character. 
@@ -176,7 +189,7 @@
 - You cannot leave a will promising all your items and/or safehouse to your next character.
 
 
-#### 2.7.3 Illegitimate deaths
+#### 2.8.3 Illegitimate deaths
 
 - If you died/became infected/injured because of a glitch or rule-breaking behavior committed upon you by someone, your character will be restored to as it was prior to the incident.
 - Let us know by opening a support ticket. 
@@ -187,13 +200,13 @@
 - If you are revived or healed, you must roleplay the incident as a “near miss.” 
 
 
-### 2.7.4 Evading infection death via logout
+### 2.8.4 Evading infection death via logout
 
 - If your character becomes infected with the zombie infection, you are expected to play it out until they are either cured or dead.
 - If you delay the infection death by staying logged out for two (2) weeks, your character will be considered dead.
 - An exception can be made if you will be going on an extended hiatus. Submit a support ticket to inform staff so we can work something out.
 
-### 2.8 Do not leave the playable area.
+### 2.9 Do not leave the playable area.
 
 - Each season of Lockdown features a clearly marked playable area. Players may not leave the area unless it is for an event.
 - Anyone caught sneaking out of the map to go and loot somewhere outside of it will be teleported back, and the loot will be confiscated. We check the logs often to stop such offenses. 
@@ -201,7 +214,7 @@
 - The boundaries are marked by checkpoints and rivers. Do NOT cross them.
 
 
-### 2.9 Romantic relationships are allowed, within reason.
+### 2.10 Romantic relationships are allowed, within reason.
 
 - Marriages, courting, dating, cohabiting, etc are all acceptable forms of roleplay. 
 - Gender is no barrior to romantic relationships. Same-sex relationships are acceptable.
@@ -209,7 +222,7 @@
 - Any player who is uncomfortable with a character's advances or feels another player is being inappropriate may come forward. We encourage you to submit a ticket with screenshots of the conversation. It will be handled discreetly and professionally. 
 
 
-### 2.10 Do not disassemble large amounts of furniture.
+### 2.11 Do not disassemble large amounts of furniture.
 
 - You may take furniture for decoration in your own house, but do not disassemble mass amounts of furniture for Carpentry XP or materials. 
 - It is more efficient to use an axe and saw to chop trees and saw logs. Trees are also a renewable resource.
@@ -219,7 +232,7 @@
 - Fences are not part of this and can be deconstructed, provided they are not safehouse claims or world boundaries.
 
 
-### 2.11 Do not farm good-condition vehicles for parts, scrap, or XP. 
+### 2.12 Do not farm good-condition vehicles for parts, scrap, or XP. 
 
 - This rule exists to ensure that new players won't find it too difficult to obtain a usable vehicle. We want all of our players to have access to reasonable transportation. 
 - If a vehicle is over 35% condition, you may not salvage, dismantle, or take engine parts from it.
@@ -234,7 +247,7 @@
 - Feel free to open a support ticket and ask questions if you're in doubt.
 
 
-### 2.12 World knowledge.
+### 2.13 World knowledge.
 
 - If your character is a local, they may have some prior information on the world, such as factions, antagonists, and major events. 
 - This does not invalidate [rule 1.1 - No Metagaming](README.md#11-no-metagaming).
@@ -245,7 +258,7 @@
   - The staff team may remove the claim of a dead character's property, indicating that the property is abandoned.
 
 
-### 2.13 Roleplay your chosen PZ traits.
+### 2.14 Roleplay your chosen PZ traits.
 
 - When creating your character, pick traits that relate to your character. For example:
   - If you choose the cowardly trait, roleplay being cowardly. 
@@ -255,7 +268,7 @@
 - Creating an optimized build without regard to your written character is a breach of rule [1.1 - No Metagaming](README.md#11-no-metagaming).
 
 
-### 2.14 Skill limiter.
+### 2.15 Skill limiter.
 
 - To prevent overpowered builds, we have a skill limiter in place. Your starting skill level determines the maximum skill levels you will be able to reach.
 - Crafting and survival skills are capped depending on your starting points:
@@ -266,7 +279,7 @@
   0 = 9; 1 = 10 
 
 
-### 2.15 Character Re-Specs
+### 2.16 Character Re-Specs
 
 - In case you find that your character isn't represented in-game the way you imagined them, we offer a courtesy re-spec (aka respec) to give you a chance to adjust them. A re-spec will allow you to remake your character, respawning with an adjusted spread of traits.
 - You may request a re-spec for any reason. Common reasons for a re-spec:
@@ -278,7 +291,7 @@
 - We will not award 'partial' levels in skills.
 
 
-### 2.16 Close-Call Token
+### 2.17 Close-Call Token
 
 Players begin each season/anthology with a *"close-call token"*. Players may turn in their token to revive their character for any reason.
 
