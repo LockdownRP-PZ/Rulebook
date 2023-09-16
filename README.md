@@ -500,8 +500,9 @@ Text based combat is allowed, provided the following rules are observed.
 
 - To claim a safehouse, you must place a piece of paper, journal or notepad at each entrance which is accessible to your building.
 - The in-game safehouse system is disabled. It causes more problems than it solves, so we rely on these safehouse rules.
-- The claim note must include the safehouse owner's name(s). 
-  - Please place each owner/user of the safehouse on the note. This is to prevent any offline raiding and so we know who has access to your items when you are not online.
+- The claim note must include the safehouse owner's character name(s). 
+  - Please write each owner/user of the safehouse on the note. This is to prevent any offline raiding and so we know who has access to your items when you are not online.
+  - Claims using the user's Discord name are not valid. 
 
 ### 5.5 Only clearly-marked-areas, buildings, rooms, and vehicles may be claimed.
 
