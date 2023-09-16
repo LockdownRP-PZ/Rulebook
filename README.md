@@ -129,11 +129,13 @@
 ### 2.4 Character archetype limits.
 
 - Certain character archetypes are subject to rigorous scrutiny. The idea of this rule is to discourage common and poorly-done character archetypes, encouraging variety and uniqueness among characters.
-- Limited-archetype characters will not be accepted unless the applicant can make the character unique outside of their profession. The likelihood this type of character being accepted is extremely low. Applicants may attempt to apply for a limited-archetype character once per season/anthology. If denied, they will be asked to submit a different character with a different background/profession on their next attempted application.
+- Limited-archetype characters will not be accepted unless the applicant can make the character unique outside of their profession. The likelihood this type of character being accepted is low. Applicants may attempt to apply for a limited-archetype character once per season/anthology. If denied, they will be asked to submit a different character with a different background/profession on their next attempted application.
   - After playing a non-limited-archetype character, a user may apply for a limited-archetype character again. 
 - Limited archetypes:
-  - Military
-  - Police
+  - Military (soldiers, spies, commanders)
+  - Domestic Security (police, FBI, CIA)
+  - Mercenary (bounty hunter, freelance security)
+- These are general archetypes. Characters may fall under this rule depending on application handler discretion.
 
 
 ### 2.5 Use the proper channels for in-character communication.
