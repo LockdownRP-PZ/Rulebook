@@ -224,7 +224,6 @@
 
 ### 2.11 Do not disassemble large amounts of furniture.
 
-- Do not disassemble mass amounts of furniture. 
 - This rule exists to preserve the map's aesthetic and allow players the opportunity to obtain furniture for decoration.
 - You may take furniture for decoration in your own house.
 - If you need wood for carpentry, it is more efficient to use an axe to chop trees and a saw to make logs into planks. Trees are also a renewable resource.
@@ -233,7 +232,20 @@
 - Fences are not part of this and can be deconstructed, provided they are not safehouse claims or world boundaries.
 
 
-### 2.12 Do not farm good-condition vehicles for parts, scrap, or XP. 
+### 2.12 Do not remove lootable containers from high-value loot spots.
+
+- Loot can respawn in world-generated containers. This rule exists to give players the opportunity to loot commonly-targeted buildings.
+- High-value loot spots:
+  - Gun stores / army surpluses
+  - Police departments
+  - Prisons
+  - Pharmacies
+  - Pawn shops
+  - Hardware stores
+  - Farm supply stores
+
+
+### 2.13 Do not farm good-condition vehicles for parts, scrap, or XP. 
 
 - This rule exists to ensure that new players won't find it too difficult to obtain a usable vehicle. We want all of our players to have access to reasonable transportation. 
 - If a vehicle is over 35% condition, you may not salvage, dismantle, or take engine parts from it.
@@ -248,7 +260,7 @@
 - Feel free to open a support ticket and ask questions if you're in doubt.
 
 
-### 2.13 World knowledge.
+### 2.14 World knowledge.
 
 - If your character is a local, they may have some prior information on the world, such as factions, antagonists, and major events. 
 - This does not invalidate [rule 1.1 - No Metagaming](README.md#11-no-metagaming).
@@ -259,7 +271,7 @@
   - The staff team may remove the claim of a dead character's property, indicating that the property is abandoned.
 
 
-### 2.14 Roleplay your chosen PZ traits.
+### 2.15 Roleplay your chosen PZ traits.
 
 - When creating your character, pick traits that relate to your character. For example:
   - If you choose the cowardly trait, roleplay being cowardly. 
@@ -269,7 +281,7 @@
 - Creating an optimized build without regard to your written character is a breach of rule [1.1 - No Metagaming](README.md#11-no-metagaming).
 
 
-### 2.15 Skill limiter.
+### 2.16 Skill limiter.
 
 - To prevent overpowered builds, we have a skill limiter in place. Your starting skill level determines the maximum skill levels you will be able to reach.
 - Crafting and survival skills are capped depending on your starting points:
@@ -280,7 +292,7 @@
   0 = 9; 1 = 10 
 
 
-### 2.16 Character Re-Specs
+### 2.17 Character Re-Specs
 
 - In case you find that your character isn't represented in-game the way you imagined them, we offer a courtesy re-spec (aka respec) to give you a chance to adjust them. A re-spec will allow you to remake your character, respawning with an adjusted spread of traits.
 - You may request a re-spec for any reason. Common reasons for a re-spec:
@@ -292,7 +304,7 @@
 - We will not award 'partial' levels in skills.
 
 
-### 2.17 Close-Call Token
+### 2.18 Close-Call Token
 
 Players begin each season/anthology with a *"close-call token"*. Players may turn in their token to revive their character for any reason.
 
@@ -300,6 +312,7 @@ Players begin each season/anthology with a *"close-call token"*. Players may tur
 - The token grants a revive without requiring proof of the cause of death.
 - The token does not have a time limit. It can be used at any point during the season/anthology.
 - Tokens do not carry over to following seasons/anthologies. You cannot save a token for use in a later season/anthology.
+- Players may not gift their close call token to another player.
 - The death must be roleplayed as a close call by the character - meaning your character *almost* died, but for some reason they didn't.
 - The character will receive wounds compatible with the cause of death to simulate what they went through.
 - If the token is used because of a PvP related death...
