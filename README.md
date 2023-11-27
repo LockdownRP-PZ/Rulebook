@@ -504,10 +504,7 @@ Text based combat is allowed, provided the following rules are observed.
 
 ### 5.1 Players may claim a safehouse at any time after joining the game.
 
-### 5.2 Players may claim up to two safehouses.
-
-- You may use each safehouse for whatever you wish. 
-- For example, you might use one safehouse for housing and the other safehouse as a shop front.
+### 5.2 Players may claim one safehouse. (This may change season-to-season.)
 
 ### 5.3 Safehouses become invalid after 2 real-life weeks of inactivity.
 
