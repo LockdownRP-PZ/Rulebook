@@ -91,7 +91,7 @@
 
 ### 1.8 No perverse themes
 
-- Gore Roleplay, Explicit Torture RP, Slavery RP, Racism/Homophobia, or any other forms of perverse roleplay, is not allowed on the server.
+- Gore Roleplay, Explicit Torture RP, Slavery RP, Racism/Homophobia, Birth RP, or any other forms of perverse roleplay, is not allowed on the server.
 
 
 ### 1.9 Remain present on the Discord server
@@ -99,6 +99,9 @@
 - To play on the game server, you must be a member of the Discord server.
 - If you leave the Discord server, your character will be removed from the whitelist.
 - You are not required to participate in chats on Discord.
+
+### 1.10 Do not contact staff for server related topics through direct messages.
+- Keep all staff topics within tickets. We always guarantee confidentiality and professionalism when engaging in a ticket with us.
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -323,6 +326,13 @@ To use your *close-call* token, open a 📋support ticket explaining that you wo
 - A description of the cause of death.
 - Your idea for how the close call will be roleplayed.
   - If you're struggling to come up with a close call, feel free to ask. We'll help you choose one.
+ 
+### 2.19 Text Turns Required:
+Take turns, and do not flood the chat box. If it’s necessary to send multiple messages in a group scenario, feel free to add flair or extra dialogue - but try not to exceed three messages at once. Sending several messages or taking multiple actions without waiting for a reply will be considered powergaming and may result in moderation action.
+- Consistent formatting is a rule. We write in third person using Buffy’s Roleplay Chat.
+- Correct spelling, grammar, and English is required.
+- Post length doesn’t matter. However, please accommodate all writing styles.
+  - Be inclusive. We are here to roleplay together. If you are not excited to roleplay in a group, a smaller setting or different server might be better for you.
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -441,6 +451,10 @@ Keep in mind the [General Server Rules](#general-server-rules) when considering 
 - NPCs played by staff are also subject to the consent rule. 
 - In a PvP situation involving multiple players where not everyone consents, the non-consenting players must move away from the PvP area.
 - Do not attempt to join into the middle of a PvP scenario. Project Zomboid PvP is often quick and deadly.
+
+### 4.2.1 Joining PVP-In-Progress
+When attempting to join a PVP scene already in progress, PVP consent works differently. A third party may ask for PVP consent. If accepted, proceed with normal PVP rules including proper turn taking. If denied by any of the original parties, the third party must remove themselves from the PVP area until the PVP has resolved.
+Reasoning: Time works differently in combat than out of combat. PVP may have started in an entirely different setting that realistically makes little sense for someone to intervene within a short period. Scenes may have started in a different context, making sudden intervention unrealistic. Important details - like positioning, injuries, or weapons drawn - may already be established but unseen. What's on screen doesn't always tell the full story. This rule helps preserve narrative consistency and fairness.
 
 ### 4.3 Toggle PvP on before PvP starts.
 
