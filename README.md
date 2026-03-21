@@ -282,8 +282,9 @@
 ### 2.16 Skill limiter.
 
 - To prevent overpowered builds, we have a skill limiter in place. Your starting skill level determines the maximum skill levels you will be able to reach.
+- (Note: As of 3/21/26 we have updated the existing system!)
 - Crafting and survival skills are capped depending on your starting points:
-  0 = 5; 1 = 7; 2 = 9; 3 = 10;
+  0 = 3; 1 = 5; 2 = 7; 3 = 10;
 - Weapons skills are capped similarly, but to a lesser extent:
   0 = 7; 1 = 9; 2 = 10;
 - Agility skills (sprint, sneak, nimble, lightfooted) are capped to an even lesser extent:
