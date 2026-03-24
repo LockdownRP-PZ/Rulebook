@@ -139,6 +139,7 @@
   - Military (soldiers, spies, commanders)
   - Domestic Security (police, FBI, CIA)
   - Mercenary (bounty hunter, freelance security)
+  - Violent Criminal (Gang member, mafia, career criminal, psychopath)
 - These are general archetypes. Characters may fall under this rule depending on application handler discretion.
 
 
