@@ -309,9 +309,9 @@
 
 ### 2.18 Close-Call Token
 
-Players begin each season/anthology with a *"close-call token"*. Players may turn in their token to revive their character for any reason.
+Each player character receives a *"close call token"*. Players may turn in their token to revive their character for any reason.
 
-- The token can be used once per season/anthology, per player - meaning that if you used the token on one character, it can't be used on another during the same season/anthology.
+- The token is single-use and cannot be transferred between characters.
 - The token grants a revive without requiring proof of the cause of death.
 - The token does not have a time limit. It can be used at any point during the season/anthology.
 - Tokens do not carry over to following seasons/anthologies. You cannot save a token for use in a later season/anthology.
